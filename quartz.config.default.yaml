@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: dasiwocom.github.io/wiki
   ignorePatterns:
     - private
     - templates
