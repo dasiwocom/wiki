@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"91c51593a3f16a89","type":"text","text":"This is a canvas","x":-125,"y":-30,"width":250,"height":250},
-		{"id":"7cbbb5be8c5516fc","x":-125,"y":249,"width":250,"height":60,"type":"text","text":""}
-	],
-	"edges":[
-		{"id":"0e1c65f5eadfb5ba","fromNode":"91c51593a3f16a89","fromSide":"bottom","toNode":"7cbbb5be8c5516fc","toSide":"top"}
-	]
-}

@@ -95,3 +95,4 @@ git add .
 git commit -m "这里写改动说明"
 git push
 ```
+(详细命令手册)[[Git 联动Github管理常用命令笔记]]
