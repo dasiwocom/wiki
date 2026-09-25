@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: dasiwocom.github.io/wiki
+  baseUrl: wiki.dasiwo.com
   ignorePatterns:
     - private
     - templates
