@@ -17,6 +17,20 @@
 - [cloud.dasiwo.com](https://cloud.dasiwo.com)
 - [tool.dasiwo.com](https://tool.dasiwo.com)
 - [learn.dasiwo.com](https://learn.dasiwo.com)
+## 目录导航
+
+**约定**：各主题文件夹的 `index.md` 即该主题的目录页（MOC），新笔记写完在里面加一行双链即可。
+
+| 系统 & 运维                  | 编程开发                       | 软件工具                         | 其他                     |
+| ------------------------ | -------------------------- | ---------------------------- | ---------------------- |
+| [[Linux\|Linux]]         | [[Python\|Python]]         | [[Obsidian\|Obsidian]]       | [[五笔输入法\|五笔输入法]]       |
+| [[Windows\|Windows]]     | [[C语言\|C语言]]               | [[Libreoffice\|LibreOffice]] | [[Prompts\|提示词]]       |
+|                          | [[HTML\|HTML]]             | [[AutoCAD\|AutoCAD]]         | [[嵌入式系统开发基础教程\|嵌入式教程]] |
+| [[Wordpress\|WordPress]] | [[PHP\|PHP]]               | [[Solidworks\|SolidWorks]]   | [[Agents\|🌱小古的工作区]]   |
+|                          | [[Markdown\|Markdown]]     |                              |                        |
+|                          | [[Github\|GitHub]]         |                              |                        |
+|                          | [[Javascript\|Javascript]] |                              |                        |
+
 ## 学习科目
 - 高等数学
 - 线性代数
