@@ -1,14 +1,10 @@
----
-title: 古风小生的知识库
----
-
 # 欢迎来到我的知识库
 
 这里是我的个人数字花园——把学习笔记和折腾记录整理成可检索的网站。全部内容由 Obsidian 编写，自动构建部署到本站。
 
 ## 关于我
 
-- 机械方向在读，热衷折腾各类技术
+-  智能制造工程专业在读，热衷折腾各类技术
 - 常用系统：Debian / Windows/Arch Linux
 - 常用语言：Python、C、HTML、PHP、Markdown
 - 常用工具：Obsidian、VSCode、宝塔面板、Libreoffice
