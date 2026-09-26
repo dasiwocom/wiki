@@ -21,7 +21,6 @@ Git 把文件流转分成三站，一条命令对应一站：
 ```
 
 **只有最后一步联网。** commit 完的东西还在你自己电脑上，别人和网站都看不到。
-![[Drawing 2026-09-27 01.20.56.excalidraw]]
 ## 逐条拆解
 
 ### `git add .`
@@ -68,3 +67,9 @@ git commit -m "做了什么改动"
 git push
 ```
 
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248 400" width="248" height="400" class="excalidraw-svg"><!-- svg-source:excalidraw --><metadata></metadata><defs><style class="style-fonts">
+      </style></defs><rect x="0" y="0" width="248" height="400" fill="#ffffff"></rect><g stroke-linecap="round" transform="translate(10 60) rotate(0 87 60)"><path d="M30 0 C59.73 3.08, 89.58 1.38, 144 0 M30 0 C57.61 -0.49, 87.81 -1, 144 0 M144 0 C162.97 -0.39, 173.1 9.35, 174 30 M144 0 C162.56 -0.4, 174.62 8.34, 174 30 M174 30 C175.53 51.06, 172.57 70.68, 174 90 M174 30 C175.26 46.44, 175.21 61.74, 174 90 M174 90 C174.42 108.89, 165.21 121.55, 144 120 M174 90 C173.3 110.33, 162.25 119.84, 144 120 M144 120 C118.46 121.6, 93.91 121.27, 30 120 M144 120 C111.04 121.74, 78.91 121.33, 30 120 M30 120 C11.9 119.85, -0.13 109.53, 0 90 M30 120 C8.14 121.61, 0.16 108.45, 0 90 M0 90 C-1.92 76.73, -0.12 59.77, 0 30 M0 90 C0.64 72.44, 0.55 55.36, 0 30 M0 30 C0 9.94, 11.74 -0.7, 30 0 M0 30 C1.44 10.88, 8.45 -0.3, 30 0" stroke="#1e1e1e" stroke-width="2" fill="none"></path></g><g stroke-linecap="round" transform="translate(167 10) rotate(0 35.5 190)"><path d="M17.75 0 C30.69 -0.83, 40.81 -1.73, 53.25 0 M17.75 0 C28.27 0.2, 39.27 0.8, 53.25 0 M53.25 0 C66.2 -0.26, 70.74 7.37, 71 17.75 M53.25 0 C64.57 2.09, 71.9 7.08, 71 17.75 M71 17.75 C70.52 152.78, 71.75 290.04, 71 362.25 M71 17.75 C70.18 97.32, 70.62 178.1, 71 362.25 M71 362.25 C71.29 373.89, 66.03 378.64, 53.25 380 M71 362.25 C73.13 373.74, 67 380.43, 53.25 380 M53.25 380 C41.91 381.56, 32.72 378.96, 17.75 380 M53.25 380 C43.93 380.16, 32.18 379.99, 17.75 380 M17.75 380 C6.14 381, -0.85 375.19, 0 362.25 M17.75 380 C5 381.23, -0.36 375.53, 0 362.25 M0 362.25 C-1.89 263.86, -1.2 167.74, 0 17.75 M0 362.25 C-0.31 264.13, 0.31 167.75, 0 17.75 M0 17.75 C-1.92 5.39, 5.04 0.01, 17.75 0 M0 17.75 C0.82 5.19, 7.15 -1.6, 17.75 0" stroke="#1e1e1e" stroke-width="2" fill="none"></path></g><g transform="translate(182.03955841064453 197.27833333333334) rotate(0 20.46044158935547 2.721666666666664)"><text x="20.46044158935547" y="3.9997591145833336" font-family="Helvetica, sans-serif, Segoe UI Emoji" font-size="4.733333333333333px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Empty Web-Embed</text></g><g stroke-linecap="round" transform="translate(167 10) rotate(0 35.5 190) scale(1, 1)"><foreignObject style="width: 71px; height: 380px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none;"><div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%;"><iframe src="about:blank" allowfullscreen="" style="width: 100%; height: 100%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: 17.75px; top: 0px; left: 0px;"></iframe></div></foreignObject></g></svg>
+
+
+
+![[Pasted image 20260927013012.png]]
