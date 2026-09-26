@@ -1,9 +1,9 @@
 ---
-title: "Git 三步：add、commit、push"
+title: Git 三步：add、commit、push
 date: 2026-09-27
 tags:
   - git
-draft: false
+draft: true
 authors:
   - 小古
 ---
