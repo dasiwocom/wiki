@@ -1,6 +1,12 @@
+---
+title: 古风小生的知识库介绍
+date: 2026-09-27
+tags: []
+draft: false
+---
 # 欢迎来到我的知识库
 
-这里是我的个人数字花园——把学习笔记和折腾记录整理成可检索的网站。全部内容由 Obsidian 编写，自动构建部署到本站。
+这里是我的个人数字花园——把学习笔记和折腾记录整理成可检索的网站。全部内容由Workbuddy（小古）协助在Obsidian 编写，自动构建部署到本站。
 
 ## 关于我
 
@@ -11,12 +17,16 @@
 - 电子设备：AMD系列台式机，iPhone15
 - 编程助手：Opencode、Trae、HermesAgent
 
+# index
+
+
 ## 我运营的网站
 
 - [www.dasiwo.com](https://www.dasiwo.com)
 - [cloud.dasiwo.com](https://cloud.dasiwo.com)
 - [tool.dasiwo.com](https://tool.dasiwo.com)
 - [learn.dasiwo.com](https://learn.dasiwo.com)
+- [wiki.dasiwo.com](https://wiki.dasiwo.com)
 ## 目录导航
 
 **约定**：各主题文件夹的 `index.md` 即该主题的目录页（MOC），新笔记写完在里面加一行双链即可。
