@@ -180,3 +180,9 @@ cd -
 ```
 git clone git@github.com:dasiwocom/superwin.git
 ```
+
+## 方案2 补充
+
+- 在**上级目录**运行，clone 自动建文件夹（init / 绑远程 / 改 main / 设上游全替你做了），clone 完直接 `add / commit / push`。
+- 文件夹默认叫仓库名，可自定义：`git clone 地址 名字`。事后改名也不影响——`.git` 才是仓库本体。
+- 换新电脑记得先配 `user.name` / `user.email`（第 3 步），clone 不代劳。
