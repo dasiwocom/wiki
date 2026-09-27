@@ -1,3 +1,10 @@
+---
+title: "Audio-volume-control-for-Hyprland-PipeWire"
+date: 2026-09-08
+tags: [linux]
+draft: false
+---
+
 ## Install related packages
 ```bash
 # Main pipewire audio stack

@@ -1,3 +1,10 @@
+---
+title: "解压 notebook.zip（含超长路径）"
+date: 2026-09-18
+tags: [windows]
+draft: false
+---
+
 ## 三、解压 notebook.zip（含超长路径）
 
 - 背景：F 盘（U 盘）只有 2 个东西：`System Volume Information` + `notebook.zip`（2.6GB）。

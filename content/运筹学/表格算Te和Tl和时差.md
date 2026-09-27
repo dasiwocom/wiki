@@ -1,3 +1,10 @@
+---
+title: "表格算Te和Tl和时差"
+date: 2026-09-08
+tags: [运筹学]
+draft: false
+---
+
 ![[Pasted image 20260814215033.png]]
 1. 正着算：求“最早可能完成时间 (TE​)”
 

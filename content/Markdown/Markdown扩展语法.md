@@ -1,3 +1,10 @@
+---
+title: "Markdown扩展语法"
+date: 2026-09-16
+tags: [markdown]
+draft: false
+---
+
 | Syntax    | Description |
 | --------- | ----------- |
 | Header    | Title       |

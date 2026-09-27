@@ -1,3 +1,10 @@
+---
+title: "Markdown Emoji 三种写法"
+date: 2026-09-16
+tags: [markdown]
+draft: false
+---
+
 
 > 适用场景：Obsidian 笔记、Markdown 写作、HTML 网页开发
 > 核心结论：写笔记用 **Unicode 字符（直接粘贴表情）**；写网页用 **HTML 实体编码**；短码语法 Obsidian 原生不支持，慎用。

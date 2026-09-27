@@ -1,10 +1,10 @@
 ---
-title: Mermaid图
+title: "Mermaid图"
 date: 2026-09-27
-tags:
-  - markdown
+tags: [markdown]
 draft: false
 ---
+
 
 代码块的语言写 `mermaid`，Obsidian 和网站都能直接渲染成图。
 

@@ -1,3 +1,10 @@
+---
+title: "How-to-Adjust-Hardware-Monitor-Brightness-With-ddcutil-on-Hyprland"
+date: 2026-09-08
+tags: [linux]
+draft: false
+---
+
 ## ddcutil Brightness Adjustment Note
 > Desktop PC, AOC 24G51F, HDMI‑A‑1, supports DDC‑CI VCP 2.2
 > brightnessctl is **not for desktop systems**, already removed. It is only for laptop built‑in screens.

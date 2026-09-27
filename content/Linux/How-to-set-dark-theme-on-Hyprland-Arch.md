@@ -1,3 +1,10 @@
+---
+title: "How-to-set-dark-theme-on-Hyprland-Arch"
+date: 2026-09-08
+tags: [linux]
+draft: false
+---
+
 > Hyprland itself has no dark‑mode switch. You need set GTK, Qt and Flatpak separately.
 
 ## Install required tools

@@ -1,3 +1,10 @@
+---
+title: "Linux GNOME 让 fcitx5 开机自启动教程"
+date: 2026-09-18
+tags: [linux]
+draft: false
+---
+
 # Linux GNOME 让 fcitx5 开机自启动教程
 
 > 适用:GNOME 桌面(Debian/Ubuntu 等),Wayland / X11 均可。

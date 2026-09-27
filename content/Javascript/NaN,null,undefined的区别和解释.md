@@ -1,3 +1,10 @@
+---
+title: "NaN,null,undefined的区别和解释"
+date: 2026-09-08
+tags: [javascript]
+draft: false
+---
+
 # 通俗拆解
 
 > 数组、Date：都是**对象(object)**，你理解的没错，里面存一堆属性。 剩下三个：`NaN`、`null`、`undefined` 单独拆开讲。

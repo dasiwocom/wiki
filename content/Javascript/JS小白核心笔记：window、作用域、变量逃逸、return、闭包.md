@@ -1,3 +1,10 @@
+---
+title: "JS小白核心笔记：window、作用域、变量逃逸、return、闭包"
+date: 2026-09-08
+tags: [javascript]
+draft: false
+---
+
 # JS小白核心笔记：window、作用域、变量逃逸、return、闭包
 
 ## 1\. 两个盒子（重中之重）

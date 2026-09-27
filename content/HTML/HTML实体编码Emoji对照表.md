@@ -1,3 +1,10 @@
+---
+title: "HTML实体编码 Emoji 对照表（仅第三种：&#数字;）"
+date: 2026-09-26
+tags: [html]
+draft: false
+---
+
 > 说明：仅在HTML页面内生效，浏览器会自动转为表情。在Obsidian等Markdown编辑器中会原样显示代码。
 > 语法格式：`&#编号;`
 
