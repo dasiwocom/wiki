@@ -1,12 +1,12 @@
 ---
-title: 使用git提交笔记改动的命令是什么是什么意思
+title: Git 三步：add、commit、push
 date: 2026-09-27
 tags:
-  - git
+  - github
 draft: false
-authors:
-  - 小古
 ---
+
+
 
 # Git 三步：add、commit、push
 

@@ -1,14 +1,16 @@
 ---
-title: "index"
-date:
-  "{ date:YYYY-MM-DD }":
-tags: []
+title: 古风小生的知识库
+date: 2026-09-27
+tags:
+  - github
+  - html
+  - markdown
+  - php
+  - prompts
+  - obsidian
+  - linux
 draft: false
-class:
 ---
-
-# index
-
 # 欢迎来到我的知识库
 
 这里是我的个人数字花园——把学习笔记和折腾记录整理成可检索的网站。全部内容由Workbuddy（小古）协助在Obsidian 编写，自动构建部署到本站。
@@ -22,9 +24,6 @@ class:
 - 电子设备：AMD系列台式机，iPhone15
 - 编程助手：Opencode、Trae、HermesAgent
 
-# index
-
-
 ## 我运营的网站
 
 - [www.dasiwo.com](https://www.dasiwo.com)
@@ -32,20 +31,6 @@ class:
 - [tool.dasiwo.com](https://tool.dasiwo.com)
 - [learn.dasiwo.com](https://learn.dasiwo.com)
 - [wiki.dasiwo.com](https://wiki.dasiwo.com)
-## 目录导航
-
-**约定**：各主题文件夹的 `index.md` 即该主题的目录页（MOC），新笔记写完在里面加一行双链即可。
-
-| 系统 & 运维                  | 编程开发                       | 软件工具                         | 其他                     |
-| ------------------------ | -------------------------- | ---------------------------- | ---------------------- |
-| [[Linux\|Linux]]         | [[Python\|Python]]         | [[Obsidian/index\|Obsidian]] | [[五笔输入法\|五笔输入法]]       |
-| [[Windows\|Windows]]     | [[C语言\|C语言]]               | [[Libreoffice\|LibreOffice]] | [[Prompts\|提示词]]       |
-|                          | [[HTML\|HTML]]             | [[AutoCAD\|AutoCAD]]         | [[嵌入式系统开发基础教程\|嵌入式教程]] |
-| [[Wordpress\|WordPress]] | [[PHP\|PHP]]               | [[Solidworks\|SolidWorks]]   | [[Agents\|🌱小古的工作区]]   |
-|                          | [[Markdown\|Markdown]]     |                              |                        |
-|                          | [[Github\|GitHub]]         |                              |                        |
-|                          | [[Javascript\|Javascript]] |                              |                        |
-
 ## 学习科目
 - 高等数学
 - 线性代数

@@ -1,0 +1,17 @@
+
+ Quartz v5.0.0  
+
+Cleaned output directory `public` in 66ms
+Found 5 input files from `content` in 28ms
+Parsing input files using 1 threads
+
+Warning: found invalid date "[object Object]" in `Linux/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "[object Object]" in `Linux/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "[object Object]" in `Linux/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+Parsed 5 Markdown files in 189ms
+Filtered out 0 files in 42μs
+Emitting files
+Emitted 72 files to `public` in 2s
+Done processing 5 files in 3s

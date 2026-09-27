@@ -1,0 +1,29 @@
+
+ Quartz v5.0.0  
+
+Cleaned output directory `public` in 817μs
+Found 4 input files from `content` in 27ms
+Parsing input files using 1 threads
+
+Warning: found invalid date "[object Object]" in `Obsidian/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "[object Object]" in `Obsidian/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "[object Object]" in `Obsidian/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "[object Object]" in `Prompts/小古写笔记的规矩.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "[object Object]" in `Prompts/小古写笔记的规矩.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "[object Object]" in `Prompts/小古写笔记的规矩.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "[object Object]" in `index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "[object Object]" in `index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "[object Object]" in `index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+Parsed 4 Markdown files in 195ms
+Filtered out 0 files in 42μs
+Emitting files
+Emitted 70 files to `public` in 2s
+Done processing 4 files in 2s
