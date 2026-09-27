@@ -13,7 +13,7 @@ authors:
 
 > 每写完笔记都要敲 `git add` / `commit` / `push` 三行太麻烦。装 Obsidian Git 插件后，在 Obsidian 里点一下就行，还能定时自动提交。
 
-插件地址：`Vinzent03/obsidian-git`（Obsidian 社区插件市场里搜 "Obsidian Git"）
+插件地址：`Vinzent03/obsidian-git`（Obsidian 社区插件市场里搜 "Git"）
 
 ## 安装
 
