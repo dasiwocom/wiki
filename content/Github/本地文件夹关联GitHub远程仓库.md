@@ -1,3 +1,12 @@
+---
+title: 本地文件夹关联GitHub远程仓库
+date: 2026-09-27
+tags:
+  - github
+draft: false
+---
+
+
 > 适用场景：GitHub上已经建好仓库，电脑本地已经存在项目文件夹，需要把两者绑定。 前提：本机已经配置好GitHub SSH密钥，可正常 `ssh -T git@github.com` 连通。
 
 ## 1、进入本地项目文件夹
