@@ -66,11 +66,11 @@ $$
 | `$\rho$`     | $\rho$     | `$\sigma$`      | $\sigma$      |
 | `$\tau$`     | $\tau$     | `$\phi$`        | $\phi$        |
 | `$\omega$`   | $\omega$   | `$\Omega$`      | $\Omega$      |
+| `$\Alpha$`   | $\Alpha$   | `$\Beta$`       | $\Beta$       |
 
-> [!warning] 大写希腊字母只有 9 个有专门命令
-> 只有这几个有：`\Gamma` `\Delta` `\Theta` `\Lambda` `\Xi` `\Pi` `\Sigma` `\Upsilon` `\Phi` `\Psi` `\Omega`。
->
-> 剩下的 Α Β Ε Ζ Η Ι Κ Μ Ν Ο Ρ Τ Χ 跟拉丁字母 A B E Z H I K M N O P T X 长得一样，**直接写拉丁字母就行**。写 `\Alpha` `\Beta` 会报错飘红。
+> [!tip] 大小写都有
+> 大写直接把首字母大写就行：`\Alpha` `\Beta` `\Gamma` `\Delta` `\Omega` … 全部支持。
+> 想要斜体变体用 `\varGamma` `\varDelta` `\varOmega` 等。
 
 ## 常用结构
 
