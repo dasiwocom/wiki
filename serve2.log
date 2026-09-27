@@ -11,3 +11,719 @@ Emitted 76 files to `public` in 3s
 Done processing 3 files in 3s
 Started a Quartz server listening at http://localhost:8080
 hint: exit with ctrl+c
+[200] /
+[200] /
+[200] /prescript.js
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /index.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/contentIndex.json
+[200] /tags/python
+[200] /tags/obsidian
+[200] /tags/linux
+[200] /tags/github
+[200] /tags/windows
+[200] /tags/php
+[200] /tags/markdown
+[200] /tags/html
+[200] /tags/template
+[200] /tags/prompts
+[200] /tags/agent
+[200] /tags/github
+[200] /tags/linux
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 20ms
+Filtered out 0 files in 10μs
+Emitted 21 files to `public` in 601ms
+Done rebuilding in 601ms
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-e427079e.css
+[200] /component-2911f5d1.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-735924e0.css
+[200] /component-bbc3f7c0.css
+[200] /component-589c1cea.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 16ms
+Filtered out 0 files in 8μs
+Emitted 20 files to `public` in 172ms
+Done rebuilding in 173ms
+[200] /static/contentIndex.json
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 16ms
+Filtered out 0 files in 10μs
+Emitted 19 files to `public` in 171ms
+Done rebuilding in 171ms
+[200] /static/icon.png
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-6ee21cee.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 12ms
+Filtered out 0 files in 7μs
+Emitted 18 files to `public` in 164ms
+Done rebuilding in 164ms
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 12ms
+Filtered out 0 files in 12μs
+Emitted 17 files to `public` in 154ms
+Done rebuilding in 154ms
+[200] /static/contentIndex.json
+[200] /static/icon.png
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 17ms
+Filtered out 0 files in 5μs
+Emitted 17 files to `public` in 158ms
+Done rebuilding in 158ms
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-bbc3f7c0.css
+[200] /component-53b25b2b.css
+[200] /component-e427079e.css
+[200] /component-2911f5d1.css
+[200] /component-735924e0.css
+[200] /component-8a06014f.css
+[200] /component-589c1cea.css
+[200] /component-c93c6a44.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/icon.png
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 13ms
+Filtered out 0 files in 5μs
+Emitted 15 files to `public` in 147ms
+Done rebuilding in 147ms
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-c93c6a44.css
+[200] /component-bbc3f7c0.css
+[200] /component-e427079e.css
+[200] /component-2911f5d1.css
+[200] /component-53b25b2b.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 13ms
+Filtered out 0 files in 5μs
+Emitted 15 files to `public` in 148ms
+Done rebuilding in 148ms
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 11ms
+Filtered out 0 files in 5μs
+Emitted 12 files to `public` in 130ms
+Done rebuilding in 130ms
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 2 Markdown files in 20ms
+Filtered out 0 files in 5μs
+Emitted 13 files to `public` in 254ms
+Done rebuilding in 254ms
+[200] /static/icon.png
+[200] /static/contentIndex.json
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 33ms
+Filtered out 0 files in 5μs
+Emitted 14 files to `public` in 360ms
+Done rebuilding in 360ms
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-589c1cea.css
+[200] /component-53b25b2b.css
+[200] /component-735924e0.css
+[200] /component-e427079e.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/icon.png
+[200] /static/contentIndex.json
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 32ms
+Filtered out 0 files in 4μs
+Emitted 15 files to `public` in 334ms
+Done rebuilding in 334ms
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/icon.png
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 31ms
+Filtered out 0 files in 5μs
+Emitted 16 files to `public` in 348ms
+Done rebuilding in 348ms
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-1ea6ad18.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 30ms
+Filtered out 0 files in 4μs
+Emitted 17 files to `public` in 336ms
+Done rebuilding in 336ms
+[200] /static/icon.png
+[200] /static/contentIndex.json
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 30ms
+Filtered out 0 files in 5μs
+Emitted 18 files to `public` in 347ms
+Done rebuilding in 347ms
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-bbc3f7c0.css
+[200] /component-c93c6a44.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-53b25b2b.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 36ms
+Filtered out 0 files in 6μs
+Emitted 19 files to `public` in 349ms
+Done rebuilding in 350ms
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 29ms
+Filtered out 0 files in 4μs
+Emitted 20 files to `public` in 340ms
+Done rebuilding in 340ms
+[200] /static/icon.png
+[200] /static/contentIndex.json
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 27ms
+Filtered out 0 files in 5μs
+Emitted 21 files to `public` in 344ms
+Done rebuilding in 344ms
+[200] /
+[200] /index.css
+[200] /component-589c1cea.css
+[200] /prescript.js
+[200] /component-735924e0.css
+[200] /component-77d6a441.css
+[200] /component-53b25b2b.css
+[200] /component-e427079e.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/icon.png
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 52ms
+Filtered out 0 files in 7μs
+Emitted 21 files to `public` in 450ms
+Done rebuilding in 450ms
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-bbc3f7c0.css
+[200] /component-77d6a441.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-8a06014f.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/icon.png
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 46ms
+Filtered out 0 files in 6μs
+Emitted 21 files to `public` in 420ms
+Done rebuilding in 420ms
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-8a06014f.css
+[200] /component-bbc3f7c0.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-2911f5d1.css
+[200] /component-c93c6a44.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/icon.png
+[200] /
+[200] /prescript.js
+[200] /static/icon.png
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 39ms
+Filtered out 0 files in 7μs
+Emitted 21 files to `public` in 372ms
+Done rebuilding in 372ms
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-bbc3f7c0.css
+[200] /component-e427079e.css
+[200] /component-8a06014f.css
+[200] /component-53b25b2b.css
+[200] /component-735924e0.css
+[200] /component-2911f5d1.css
+[200] /component-589c1cea.css
+[200] /component-c93c6a44.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/icon.png
+[200] /prompts/%E5%B0%8F%E5%8F%A4%E5%86%99%E7%AC%94%E8%AE%B0%E7%9A%84%E8%A7%84%E7%9F%A9
+[200] /prescript.js
+[200] /agents/git-%E4%B8%89%E6%AD%A5%EF%BC%9Aadd%E3%80%81commit%E3%80%81push
+Detected a source code change, doing a hard rebuild...
+Cleaned output directory `public` in 2s
+Found 3 input files from `content` in 16ms
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 43ms
+Filtered out 0 files in 31μs
+Emitting files
+Emitted 68 files to `public` in 2s
+Done processing 3 files in 4s
+[200] /agents/git-%E4%B8%89%E6%AD%A5%EF%BC%9Aadd%E3%80%81commit%E3%80%81push
+[200] /index.css
+[200] /component-735924e0.css
+[200] /prescript.js
+[200] /component-2911f5d1.css
+[200] /component-bbc3f7c0.css
+[200] /component-589c1cea.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/icon.png
+[200] /
+[200] /prescript.js
+[200] /static/icon.png
+Detected a source code change, doing a hard rebuild...
+Cleaned output directory `public` in 31ms
+Found 3 input files from `content` in 9ms
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 47ms
+Filtered out 0 files in 31μs
+Emitting files
+Emitted 68 files to `public` in 2s
+Done processing 3 files in 2s
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-bbc3f7c0.css
+[200] /component-e427079e.css
+[200] /component-77d6a441.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-2911f5d1.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-8a06014f.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/icon.png
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 13ms
+Filtered out 0 files in 10μs
+Emitted 17 files to `public` in 155ms
+Done rebuilding in 155ms
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-bbc3f7c0.css
+[200] /component-77d6a441.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-8a06014f.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/icon.png
+[200] /static/contentIndex.json

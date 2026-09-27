@@ -1,0 +1,154 @@
+
+ Quartz v5.0.0  
+
+Cleaned output directory `public` in 65ms
+Found 3 input files from `content` in 27ms
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 175ms
+Filtered out 0 files in 41μs
+Emitting files
+Emitted 68 files to `public` in 2s
+Done processing 3 files in 3s
+Started a Quartz server listening at http://localhost:8080
+hint: exit with ctrl+c
+[200] /
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 0 Markdown files in 187μs
+Filtered out 0 files in 9μs
+Emitted 14 files to `public` in 318ms
+Done rebuilding in 319ms
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 29ms
+Filtered out 0 files in 8μs
+Emitted 17 files to `public` in 239ms
+Done rebuilding in 239ms
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 25ms
+Filtered out 0 files in 15μs
+Emitted 17 files to `public` in 189ms
+Done rebuilding in 189ms
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 19ms
+Filtered out 0 files in 6μs
+Emitted 17 files to `public` in 162ms
+Done rebuilding in 162ms
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 24ms
+Filtered out 0 files in 13μs
+Emitted 17 files to `public` in 164ms
+Done rebuilding in 164ms
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 1 Markdown files in 21ms
+Filtered out 0 files in 5μs
+Emitted 17 files to `public` in 166ms
+Done rebuilding in 166ms
+[200] /tags/github
+[200] /tags/html
+[200] /agents/git-%E4%B8%89%E6%AD%A5%EF%BC%9Aadd%E3%80%81commit%E3%80%81push
+[200] /prescript.js
+[200] /
+[200] /tags/prompts
+[200] /tags/php
+[200] /tags/markdown
+[200] /tags/obsidian
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 2 Markdown files in 38ms
+Filtered out 0 files in 12μs
+Emitted 20 files to `public` in 327ms
+Done rebuilding in 327ms
+[200] /
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 55ms
+Filtered out 0 files in 5μs
+Emitted 22 files to `public` in 534ms
+Done rebuilding in 534ms
+[200] /
+[200] /index.css
+[200] /component-735924e0.css
+[200] /component-589c1cea.css
+[200] /component-bbc3f7c0.css
+[200] /component-2911f5d1.css
+[200] /component-e427079e.css
+[200] /component-53b25b2b.css
+[200] /component-c93c6a44.css
+[200] /component-8a06014f.css
+[200] /component-77d6a441.css
+[200] /component-6ee21cee.css
+[200] /component-1ea6ad18.css
+[200] /component-34bdfded.css
+[200] /component-788c9ca3.css
+[200] /component-642859cd.css
+[200] /component-4abc06bd.css
+[200] /component-274a3dfe.css
+[200] /component-94cb6c84.css
+[200] /component-58d5ff56.css
+[200] /component-7262b5a7.css
+[200] /static/resource-style-a5c806d2.css
+[200] /static/resource-style-6bd36952.css
+[200] /static/resource-style-9857b007.css
+[200] /static/resource-style-d3a1a224.css
+[200] /prescript.js
+[200] /static/resource-after-e13fffa1.js
+[200] /static/resource-after-8b336f9a.js
+[200] /static/resource-after-baba652b.js
+[200] /static/resource-after-5eb75950.js
+[200] /static/resource-after-683f275d.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 58ms
+Filtered out 0 files in 6μs
+Emitted 22 files to `public` in 471ms
+Done rebuilding in 471ms
+[200] /
+[200] /static/contentIndex.json
+Detected change, rebuilding...
+Parsing input files using 1 threads
+Parsed 3 Markdown files in 42ms
+Filtered out 0 files in 5μs
+Emitted 22 files to `public` in 413ms
+Done rebuilding in 413ms
+[200] /
+[200] /static/contentIndex.json

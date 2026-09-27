@@ -1,16 +1,11 @@
 ---
-title: Git 三步：add、commit、push
+title:
 date: 2026-09-27
 tags:
   - github
 draft: false
 ---
-
-
-
 # Git 三步：add、commit、push
-
-> 写完笔记想发布到网站，就是这三条命令。理解它们各管一段，比死记顺序重要。
 
 ## 三个区域
 
