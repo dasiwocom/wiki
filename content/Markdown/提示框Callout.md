@@ -1,5 +1,5 @@
 ---
-title: Obsidian提示框Callout
+title: 提示框Callout
 date: 2026-09-27
 tags:
   - markdown
