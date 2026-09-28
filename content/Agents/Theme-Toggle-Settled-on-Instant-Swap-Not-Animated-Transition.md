@@ -1,3 +1,12 @@
+---
+title: "Theme-Toggle-Settled-on-Instant-Swap-Not-Animated-Transition"
+date: 2026-09-18
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 ## Symptom
 
 On a static tool site (ToolBox, Apple‑style design), toggling light‑dark mode worked smoothly on desktop but felt "super laggy" on phones. The background and tool cards switched almost immediately, while the text color on elements such as card titles (`JSON Formatter`) and the small SVGs in the top bar visibly lagged behind. After shortening the transition from 0.3 s → 0.18 s → 0.05 s the mismatch shrank but never disappeared; only when the transition was set to `0s` (an instant in‑frame swap) did background and text land in the same frame.

@@ -1,3 +1,12 @@
+---
+title: "Building-a-Graph-View-for-a-Markdown-Knowledge-Base"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Building a Graph View for a Markdown Knowledge Base
 
 ## The goal

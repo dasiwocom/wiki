@@ -1,3 +1,12 @@
+---
+title: "Glassmorphism-Navbar-Leaks-Underlying-Text-When-a-Full-Screen-Drawer-Opens"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Glassmorphism Navbar Leaks Underlying Text When a Full-Screen Drawer Opens
 
 ## Symptom

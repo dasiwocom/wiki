@@ -1,9 +1,12 @@
 ---
 title: "Markdown 特殊字符HTML 实体对照表"
 date: 2026-09-16
+authors: []
 tags: [markdown]
 draft: false
 ---
+
+
 
 > Markdown 不能直接插入特殊符号（如 ©、®、π），但可以**复制粘贴符号本身**，或使用 **HTML 实体编码**。
 > 实体编码格式：`&名称;`（命名实体）或 `&#数字;`（数字实体）。

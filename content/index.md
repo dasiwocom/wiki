@@ -1,16 +1,12 @@
 ---
-title: 古风小生的知识库
+title: "古风小生的知识库"
 date: 2026-09-27
-tags:
-  - github
-  - html
-  - markdown
-  - php
-  - prompts
-  - obsidian
-  - linux
+authors: []
+tags: [github, html, markdown, php, prompts, obsidian, linux]
 draft: false
 ---
+
+
 # 欢迎来到我的知识库
 
 这里是我的个人数字花园——把学习笔记和折腾记录整理成可检索的网站。全部内容由Workbuddy（小古）协助在Obsidian 编写，自动构建部署到本站。

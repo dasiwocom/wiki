@@ -1,3 +1,12 @@
+---
+title: "DOM-Traversal-Starting-Point-When-Your-Loop-Treats-a-ul-as-an-li"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # The DOM Traversal Starting Point: When Your Loop Treats a `<ul>` as an `<li>`
 
 ## Symptom

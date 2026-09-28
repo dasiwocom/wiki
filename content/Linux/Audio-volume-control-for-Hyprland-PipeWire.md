@@ -1,9 +1,12 @@
 ---
 title: "Audio-volume-control-for-Hyprland-PipeWire"
 date: 2026-09-08
+authors: []
 tags: [linux]
 draft: false
 ---
+
+
 
 ## Install related packages
 ```bash

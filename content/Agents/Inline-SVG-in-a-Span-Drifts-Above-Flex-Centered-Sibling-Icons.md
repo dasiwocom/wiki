@@ -1,3 +1,12 @@
+---
+title: "Inline-SVG-in-a-Span-Drifts-Above-Flex-Centered-Sibling-Icons"
+date: 2026-09-19
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 ## Symptom
 
 导航栏（ToolBox，Apple 风格）里三个图标按钮并排：地球、菜单、主题（日/月）。地球和菜单是 `<svg>` 直接作为 flex 按钮的子元素；主题图标是 `<svg>` 被 **注入到 `<span id="themeIcon">` 里**。用户感知：**日/月图标比地球、菜单偏上约 1px**（"日月位置偏上"），高分屏上是亚像素漂移，放大截图和逐像素对比时才明显。三者的 svg 尺寸、CSS stroke 完全一致，无从 CSS 层面解释。

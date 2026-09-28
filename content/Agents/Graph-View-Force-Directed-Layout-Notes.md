@@ -1,3 +1,12 @@
+---
+title: "Graph-View-Force-Directed-Layout-Notes"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Graph View Force-Directed Layout Notes
 
 ## The simulation

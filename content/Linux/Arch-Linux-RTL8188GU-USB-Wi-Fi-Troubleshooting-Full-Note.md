@@ -1,9 +1,12 @@
 ---
 title: "Arch-Linux-RTL8188GU-USB-Wi-Fi-Troubleshooting-Full-Note"
 date: 2026-09-08
+authors: []
 tags: [linux]
 draft: false
 ---
+
+
 
 ## Document Overview
 - Hardware: Realtek RTL8188GU USB Wi-Fi Adapter

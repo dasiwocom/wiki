@@ -1,3 +1,12 @@
+---
+title: "Config-JSON-Leak-Why-Config-Files-Must-Be-Blocked-from-the-Web"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # A Config JSON Leak: Why Your Site's Config File Must Be Blocked from the Web
 
 ## Symptom

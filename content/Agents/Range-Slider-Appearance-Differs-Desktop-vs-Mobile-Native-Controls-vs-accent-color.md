@@ -1,3 +1,12 @@
+---
+title: "Range-Slider-Appearance-Differs-Desktop-vs-Mobile-Native-Controls-vs-accent-color"
+date: 2026-09-18
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 ## Symptom
 
 项目里有一个 `<input type="range">` 滑动条（比如 UUID 数量滑杆），在桌面 Chrome 上显示为「黑色圆球 + 白描边」的 thumb，但同一条代码在 iOS Safari 上显示为纯白色 thumb（系统原生风格）。两者形状、颜色完全不同。

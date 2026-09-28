@@ -1,3 +1,12 @@
+---
+title: "Operating-dasiwo-WordPress-Site"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Operating dasiwo.com (WordPress Resource Share Site)
 
 ## Positioning

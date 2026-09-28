@@ -1,3 +1,12 @@
+---
+title: "Mobile-Side-Drawer-Feels-Laggy-Four-Layer-Troubleshooting"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Mobile Side-Drawer Feels Laggy or Slow to Respond: A Four-Layer Troubleshooting Chain
 
 ## Symptom

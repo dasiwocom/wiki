@@ -1,9 +1,12 @@
 ---
 title: "在线更新失败如何手动更新WordPress"
 date: 2026-09-26
+authors: []
 tags: [wordpress]
 draft: false
 ---
+
+
 
 1. 解压下载的WordPress安装包，删除里面的wp-content文件夹；
 2. 删除服务器网站根目录下的wp-admin和wp-includes两个文件夹；

@@ -1,3 +1,12 @@
+---
+title: "Mobile-Input-Focus-Zoom-and-Page-Jumping-Causes-and-CSS-JS-Workarounds"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 ## Symptom
 
 On mobile devices, tapping an input field to bring up the keyboard causes the whole page to suddenly zoom‑in and jitter. Alternatively, the viewport scrolls and jumps erratically when the input receives focus. The layout returns to normal when tapping elsewhere on the page.

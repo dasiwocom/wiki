@@ -1,3 +1,12 @@
+---
+title: "CSS-Transition-and-Theme-Switching"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # CSS Transition and Theme Switching
 
 ## The problem

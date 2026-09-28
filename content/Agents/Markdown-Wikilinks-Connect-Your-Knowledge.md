@@ -1,3 +1,12 @@
+---
+title: "Markdown-Wikilinks-Connect-Your-Knowledge"
+date: 2026-09-16
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Markdown Wikilinks Connect Your Knowledge
 
 ## Why links matter

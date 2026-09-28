@@ -1,3 +1,12 @@
+---
+title: "NotebookLM 架构深度拆解：长上下文时代最好的 QA 系统是怎么做的"
+date: 2026-09-26
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 
 > 本文基于掘金文章《拆解 NotebookLM：长上下文时代最好的 QA 系统是怎么做的》（作者：肖凤生）整理提炼，补充了原理层面的解释，并结合自建 RAG 项目给出落地启示。
 > 原文链接：https://juejin.cn/post/7646985522289836083

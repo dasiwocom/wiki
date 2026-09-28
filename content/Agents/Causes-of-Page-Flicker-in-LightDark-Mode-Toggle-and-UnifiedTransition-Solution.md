@@ -1,3 +1,12 @@
+---
+title: "Causes-of-Page-Flicker-in-LightDark-Mode-Toggle-and-UnifiedTransition-Solution"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 ## Symptom
 
 When toggling light‑dark mode, page elements change color at inconsistent speeds: large areas (background, main text) animate with smooth gradients, while details such as dividing lines, code blocks and tables snap instantly to new colors. The two different transition speeds create an unpleasant flickering visual effect. The official VitePress website does not exhibit this behavior during theme switching.

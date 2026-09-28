@@ -1,3 +1,12 @@
+---
+title: "Page-Drift-Horizontally-on-Mobile-Causes-and-Fixes"
+date: 2026-09-18
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 ## Symptom
 
 移动端（手机浏览器）打开站点时，页面能**左右拖动**、宽度"不稳定"，有种能水平滑动的感觉。而用户对比的其他站点"卡得很死，只能上下滚动"。全站没有任何可见的横向滑块、没有横向滚动条，却依然能左右拖。

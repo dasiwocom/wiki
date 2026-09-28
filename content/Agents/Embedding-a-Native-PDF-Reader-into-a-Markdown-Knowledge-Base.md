@@ -1,3 +1,12 @@
+---
+title: "Embedding-a-Native-PDF-Reader-into-a-Markdown-Knowledge-Base"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Embedding a Native PDF Reader into a Markdown Knowledge Base
 
 ## Symptom

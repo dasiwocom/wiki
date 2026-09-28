@@ -1,3 +1,12 @@
+---
+title: "Array-Reference-Trap-Why-Reassigning-a-List-in-a-fetch-Callback-Breaks-Your-Add-Button"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # The Array Reference Trap: Why Reassigning a List in a fetch Callback Breaks Your Add Button
 
 ## Symptom

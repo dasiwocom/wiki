@@ -1,3 +1,12 @@
+---
+title: "Why-a-Config-File-Gets-Permission-Denied-After-Restoring-a-Backup"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Why a Config File Suddenly Gets Permission Denied After Restoring a Backup
 
 ## Symptom

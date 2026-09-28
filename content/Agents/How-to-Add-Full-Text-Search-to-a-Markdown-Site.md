@@ -1,3 +1,12 @@
+---
+title: "How-to-Add-Full-Text-Search-to-a-Markdown-Site"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # How to Add Full-Text Search to a Markdown Site
 
 ## What You Want

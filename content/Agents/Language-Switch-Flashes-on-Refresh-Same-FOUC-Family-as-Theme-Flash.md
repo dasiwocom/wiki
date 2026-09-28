@@ -1,3 +1,12 @@
+---
+title: "Language-Switch-Flashes-on-Refresh-Same-FOUC-Family-as-Theme-Flash"
+date: 2026-09-18
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 ## Symptom
 
 刷新站点时（尤其偶尔/频繁刷新），页面先闪一下英文（比如导航栏 "ToolBox"、"Home"），随后才变成中文（"工具箱"、"首页"）。同一个站点里**主题**从不闪（黑/白天立即正确），唯独**语言**会闪。

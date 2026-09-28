@@ -1,3 +1,12 @@
+---
+title: "Debugging-Font-Mismatch-Between-SVG-and-HTML-Text"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Debugging Font Mismatch Between SVG and HTML Text
 
 ## Symptom

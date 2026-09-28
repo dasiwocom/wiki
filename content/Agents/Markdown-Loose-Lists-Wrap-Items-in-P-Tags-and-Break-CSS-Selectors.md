@@ -1,3 +1,12 @@
+---
+title: "Markdown-Loose-Lists-Wrap-Items-in-P-Tags-and-Break-CSS-Selectors"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Markdown Loose Lists Wrap Items in `<p>` and Silently Break Your `li > a` CSS
 
 ## Symptom

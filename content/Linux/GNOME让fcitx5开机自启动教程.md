@@ -1,9 +1,12 @@
 ---
 title: "Linux GNOME 让 fcitx5 开机自启动教程"
 date: 2026-09-18
+authors: []
 tags: [linux]
 draft: false
 ---
+
+
 
 # Linux GNOME 让 fcitx5 开机自启动教程
 

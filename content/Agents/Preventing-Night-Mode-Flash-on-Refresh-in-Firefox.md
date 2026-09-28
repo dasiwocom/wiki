@@ -1,3 +1,12 @@
+---
+title: "Preventing-Night-Mode-Flash-on-Refresh-in-Firefox"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Preventing Night-Mode Flash on Refresh in Firefox
 
 ## Symptom

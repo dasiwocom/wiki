@@ -1,3 +1,12 @@
+---
+title: "CSS-Order-Matters-A-Mobile-Media-Query-Silently-Overridden-by-a-Later-Base-Rule"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # CSS Order Matters: A Mobile Media Query Silently Overridden by a Later Base Rule
 
 ## Symptom

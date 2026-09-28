@@ -1,9 +1,12 @@
 ---
 title: "Debian系统英文单词"
 date: 2026-09-25
+authors: []
 tags: [english]
 draft: false
 ---
+
+
 
 beginner‑friendly：对新手友好、易上手
 general‑purpose language：通用编程语言

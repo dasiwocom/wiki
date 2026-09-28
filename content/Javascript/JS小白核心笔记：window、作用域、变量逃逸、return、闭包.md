@@ -1,9 +1,12 @@
 ---
 title: "JS小白核心笔记：window、作用域、变量逃逸、return、闭包"
 date: 2026-09-08
+authors: []
 tags: [javascript]
 draft: false
 ---
+
+
 
 # JS小白核心笔记：window、作用域、变量逃逸、return、闭包
 

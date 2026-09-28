@@ -1,3 +1,12 @@
+---
+title: "Rendering-Excalidraw-Drawings-in-a-Markdown-Knowledge-Base"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Rendering Obsidian Excalidraw Drawings in a Markdown Knowledge Base
 
 ## The goal

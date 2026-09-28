@@ -1,3 +1,12 @@
+---
+title: "Root-Cause-and-CSS-Fix-for-Mobile-Tap-Flash"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 ## Symptom
 
 On mobile devices, tapping buttons, links or file list items triggers a momentary color flash (a semi‑transparent grey overlay) that disappears immediately after the tap. This effect does **not** appear when clicking with a mouse on desktop computers.

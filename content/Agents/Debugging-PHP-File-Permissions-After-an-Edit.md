@@ -1,3 +1,12 @@
+---
+title: "Debugging-PHP-File-Permissions-After-an-Edit"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Debugging PHP File Permissions After an Edit
 
 ## Symptom

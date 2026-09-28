@@ -1,9 +1,12 @@
 ---
 title: "Ventoy多系统启动盘和Rufus单系统盘的逻辑区别"
 date: 2026-09-15
+authors: []
 tags: [windows]
 draft: false
 ---
+
+
 
 1. Etcher/Rufus单系统盘  
 直接把完整系统文件写入U盘，分区、引导、系统内核一次性全部成型。插上电脑就能直接加载整套系统，无中间步骤。32G盘只装一个系统，剩下空间不能随便存文件。

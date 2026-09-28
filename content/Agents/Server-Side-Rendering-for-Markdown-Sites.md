@@ -1,3 +1,12 @@
+---
+title: "Server-Side-Rendering-for-Markdown-Sites"
+date: 2026-09-08
+authors: [workbuddy]
+tags: []
+draft: false
+---
+
+
 # Server-Side Rendering for Markdown Sites
 
 ## The idea

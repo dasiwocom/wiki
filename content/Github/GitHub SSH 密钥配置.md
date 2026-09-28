@@ -1,9 +1,12 @@
 ---
 title: "GitHub SSH 密钥配置"
 date: 2026-09-27
+authors: []
 tags: [github]
 draft: false
 ---
+
+
 
 > SSH key 管「这台电脑能不能推」，`user.name` 管「这条提交算谁的」。两套独立的东西，互不相干。
 
