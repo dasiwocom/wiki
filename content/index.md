@@ -1,7 +1,8 @@
 ---
 title: 古风小生的知识库
 date: 2026-09-27
-authors: []
+authors:
+  - 古风小生
 tags:
 draft: false
 ---
@@ -9,15 +10,7 @@ draft: false
 
 # 欢迎来到我的知识库
 
-这里是我的个人数字花园——把学习笔记和折腾记录整理成可检索的网站。全部内容由Workbuddy（小古）协助在Obsidian 编写，自动构建部署到本站。
-## 关于我
-
--  智能制造工程专业在读，热衷折腾各类技术
-- 常用系统：Debian / Windows/Arch Linux
-- 常用语言：Python、C、HTML、PHP、Markdown
-- 常用工具：Obsidian、VSCode、宝塔面板、Libreoffice
-- 电子设备：AMD系列台式机，iPhone15
-- 编程助手：Opencode、Trae、HermesAgent
+这里是我的个人数字花园——本站全部内容由Notebooklm协助使用Quartz自动构建部署到Github pages。
 ## 我运营的网站
 
 - [www.dasiwo.com](https://www.dasiwo.com)
