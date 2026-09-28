@@ -5,11 +5,6 @@ authors: []
 tags: [github]
 draft: false
 ---
-
-
-
-
-
 > `.gitignore` 是一个特殊文件，放在**仓库根目录**，用来告诉 Git：哪些文件/文件夹不要纳入版本控制，不要提交上传到 GitHub。 注意：**已经被Git跟踪过的文件，写进.gitignore不会自动删除，只对后续新文件生效**。
 
 ## 创建 .gitignore
