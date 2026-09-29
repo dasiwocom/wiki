@@ -1,5 +1,5 @@
 ---
-title: 古风小生的知识库
+title: Brain2.0
 date: 2026-09-27
 authors:
   - 古风小生
