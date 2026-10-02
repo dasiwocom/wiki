@@ -1,5 +1,5 @@
 ---
-title:
+title: 古风小生的第二大脑
 aliases:
 tags:
 description:
