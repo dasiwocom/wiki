@@ -1,3 +1,87 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+/* ============================================================
+   侧边栏目录（Explorer）：长文件名不折行，超出用省略号
+   ------------------------------------------------------------
+   默认行为是所有条目文字都会自动折行，名字一长就占两三行，
+   整个目录看着散乱。这里统一改成「单行 + 省略号」。
+
+   实现的三个关键点（缺一个都不生效）：
+   1. white-space: nowrap      —— 禁止折行
+   2. overflow: hidden         —— 允许裁掉超出部分
+   3. min-width: 0             —— flex 子项默认 min-width: auto，
+                                  会拒绝被压缩，必须显式归零，
+                                  否则省略号永远出不来
+   ============================================================ */
+
+.explorer-content {
+  // 可收缩的层级，全部放开压缩限制
+  li,
+  .folder-container,
+  .folder-container > div {
+    min-width: 0;
+  }
+
+  // 文件夹名那一行：让文字块吃掉箭头之外的剩余宽度
+  .folder-container > div {
+    flex: 1 1 auto;
+  }
+
+  // 笔记文件名
+  a.nav-file-title,
+  .folder-container > div > a {
+    display: block;
+    min-width: 0;
+    max-width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  // 文件夹名（可折叠的那些）
+  .folder-button,
+  .folder-title {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .folder-title {
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  // 左边的小文件夹图标 / 展开箭头不要被挤掉
+  .folder-icon {
+    flex-shrink: 0;
+  }
+}
+
+/* ============================================================
+   侧边栏宽度（想调宽就把下面这整段的注释去掉）
+   ------------------------------------------------------------
+   宽度本身由 quartz/styles/variables.scss 里的
+   $sidePanelWidth 决定，那个文件是框架自带的，升级会被覆盖，
+   所以推荐在这里用普通 CSS 覆盖，效果一样且不会丢。
+
+   桌面端（窗口 ≥1200px）是三栏：左栏 内容 右栏
+   平板端（800~1200px）是两栏：左栏 内容
+   下面同时覆盖这两种情况，数值按自己喜好改。
+   ============================================================ */
+
+/*
+@media all and (min-width: 1200px) {
+  .page > #quartz-body {
+    grid-template-columns: 384px auto 384px;
+  }
+}
+
+@media all and (min-width: 800px) and (max-width: 1200px) {
+  .page > #quartz-body {
+    grid-template-columns: 384px auto;
+  }
+}
+*/
