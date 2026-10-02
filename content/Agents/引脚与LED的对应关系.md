@@ -1,5 +1,5 @@
 ---
-title: 引脚与 LED 的对应关系title
+title: 引脚与 LED 的对应关系
 aliases:
   - 一个字节控制八颗灯
   - 为什么写 P2

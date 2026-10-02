@@ -10,7 +10,7 @@ configuration:
   baseUrl: wiki.dasiwo.com
   ignorePatterns:
     - private/**
-    - templates/**
+    - Templates/**
     - .obsidian/**
   theme:
     fontOrigin: googleFonts
