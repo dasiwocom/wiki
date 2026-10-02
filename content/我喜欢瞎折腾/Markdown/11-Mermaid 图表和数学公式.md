@@ -7,7 +7,9 @@ description: 在笔记里画图和写公式：Mermaid 图表的常用类型和�
 
 # Mermaid 图表和数学公式
 
-Markdown 本身只能排版文字，画图和公式是后加的能力。本站两个都支持：**Mermaid 画图，KaTeX 写公式**。
+> 系列第 11 / 13 篇 · ← 上一步：[[10-Frontmatter 属性区和标签|Frontmatter 属性区]] · 下一步：[[12-Markdown 做不到的，直接写 HTML|直接写 HTML]] → · 路线图：[[Markdown 语法总览]]
+
+Markdown 本身只能排版文字，画图和公式是后加的能力。这个站点两个都支持：**Mermaid 画图，KaTeX 写公式**。
 
 ## Mermaid：用文字画图
 
@@ -199,7 +201,7 @@ graph TD
 
 ## 数学公式
 
-用 LaTeX 语法，本站用 KaTeX 渲染。
+用 LaTeX 语法，这个站点用 KaTeX 渲染。
 
 **行内公式**用一对 `$`：
 
