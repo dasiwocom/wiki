@@ -1,9 +1,8 @@
 ---
-title: 引脚与 LED 的对应关系
+title: 引脚与 LED 的对应关系title
 aliases:
   - 一个字节控制八颗灯
   - 为什么写 P2
-date: 2026-10-02
 draft: false
 tags:
   - 51单片机
