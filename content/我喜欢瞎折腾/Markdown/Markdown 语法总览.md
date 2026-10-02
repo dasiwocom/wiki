@@ -2,6 +2,7 @@
 title:
 aliases:
 tags:
+  - markdown
 description: Markdown 与 Obsidian 语法的渐进式学习路线：13 篇按从零到进阶的顺序排好，每篇标了"学完能做什么"，另附速查表、三个环境的差异和这个库的写法习惯。
 ---
 

@@ -2,6 +2,7 @@
 title:
 aliases:
 tags:
+  - markdown
 description: Markdown 表达不了的时候可以直接写 HTML：折叠块、上下标、键盘按键、嵌入视频、内联 SVG 示意图，以及这个站点对这些的支持情况。
 ---
 

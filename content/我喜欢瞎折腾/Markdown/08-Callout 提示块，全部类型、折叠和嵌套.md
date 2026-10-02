@@ -2,6 +2,7 @@
 title:
 aliases:
 tags:
+  - markdown
 description: Obsidian Callout 提示块的完整用法：全部类型和别名、自定义标题、折叠展开、多层嵌套，以及什么时候该用它。
 ---
 

@@ -2,6 +2,7 @@
 title:
 aliases:
 tags:
+  - markdown
 description: Obsidian 双链和嵌入的全部用法：链接到整篇笔记、某一节、某个段落（块 ID），改显示文字，以及把内容直接搬过来显示。
 ---
 

@@ -2,6 +2,7 @@
 title:
 aliases:
 tags:
+  - 51单片机
 description: 把芯片表面印的 STC89C52RC 逐段拆开读，看完就知道它是什么规格的芯片、烧录软件里该选哪一条。
 ---
 

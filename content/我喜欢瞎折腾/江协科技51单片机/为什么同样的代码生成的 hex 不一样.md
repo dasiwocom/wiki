@@ -2,6 +2,7 @@
 title:
 aliases:
 tags:
+  - 51单片机
 description: 同样的 C 代码，两个人编译出的 hex 几乎不可能逐字节相同——这通常是正常的，但 Keil 未授权会额外造成代码整体偏移到 0x0800。
 ---
 

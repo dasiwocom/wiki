@@ -2,6 +2,7 @@
 title:
 aliases:
 tags:
+  - markdown
 description: 笔记开头的 frontmatter 属性区怎么写：YAML 基本格式、常用的几个字段、标签怎么用，以及这个站点对属性区的约定。
 ---
 

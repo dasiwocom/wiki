@@ -2,6 +2,10 @@
 title: 古风小生的第二大脑
 aliases:
 tags:
+  - markdown
+  - 提示词
+  - 英语
+  - 51单片机
 description:
 ---
 # 欢迎来到我的知识库

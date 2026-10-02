@@ -2,6 +2,7 @@
 title:
 aliases:
 tags:
+  - markdown
 description: 在笔记里画图和写公式：Mermaid 图表的常用类型和节点写法，以及 KaTeX 数学公式的行内与独立两种写法。
 ---
 

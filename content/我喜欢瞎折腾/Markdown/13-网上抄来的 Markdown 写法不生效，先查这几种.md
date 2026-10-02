@@ -2,6 +2,7 @@
 title:
 aliases:
 tags:
+  - markdown
 description: 这个站点实测下来不支持的 Markdown 写法清单，每种都说明实际会产生什么现象、为什么，以及该用什么替代。
 ---
 
