@@ -245,4 +245,4 @@ $$
 
 ---
 
-> 系列第 11 / 13 篇 · ← 上一步：[[10-Frontmatter 属性区和标签|Frontmatter 属性区]] · 下一步：[[12-Markdown 做不到的，直接写 HTML|直接写 HTML]] → · 路线图：[[Markdown 语法总览]]
+> 系列第 11 / 13 篇 · ← 上一步：[[10-Frontmatter 属性区和标签|Frontmatter 属性区]] · 下一步：[[12-Markdown 做不到的，直接写 HTML|直接写 HTML]] → · 路线图：[[00-Markdown 语法总览]]

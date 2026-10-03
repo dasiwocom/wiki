@@ -126,4 +126,4 @@ LIST FROM #教程
 
 ---
 
-> 系列第 13 / 13 篇 · ← 上一步：[[12-Markdown 做不到的，直接写 HTML|直接写 HTML]] · 路线图：[[Markdown 语法总览]]
+> 系列第 13 / 13 篇 · ← 上一步：[[12-Markdown 做不到的，直接写 HTML|直接写 HTML]] · 路线图：[[00-Markdown 语法总览]]

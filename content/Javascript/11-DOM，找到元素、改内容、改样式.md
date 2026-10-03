@@ -284,4 +284,4 @@ Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')
 
 ---
 
-> 系列第 11 / 15 篇 · ← 上一步：[[10-字符串和数字的常用方法|字符串和数字]] · 下一步：[[12-事件，用户做了什么就响应什么|事件]] → · 路线图：[[JavaScript 总览]]
+> 系列第 11 / 15 篇 · ← 上一步：[[10-字符串和数字的常用方法|字符串和数字]] · 下一步：[[12-事件，用户做了什么就响应什么|事件]] → · 路线图：[[00-JavaScript 总览]]

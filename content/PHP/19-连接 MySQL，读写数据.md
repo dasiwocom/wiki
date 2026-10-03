@@ -368,4 +368,4 @@ header("Location: " . htmlspecialchars($_SERVER["PHP_SELF"]));
 
 ---
 
-> 系列第 19 / 19 篇 · ← 上一步：[[18-JSON，和前端交换数据|JSON]] · 路线图：[[PHP 总览]]
+> 系列第 19 / 19 篇 · ← 上一步：[[18-JSON，和前端交换数据|JSON]] · 路线图：[[00-PHP 总览]]

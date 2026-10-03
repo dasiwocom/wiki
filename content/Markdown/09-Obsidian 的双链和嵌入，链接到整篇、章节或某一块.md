@@ -147,4 +147,4 @@ description: Obsidian 双链和嵌入的全部用法：链接到整篇笔记、�
 
 ---
 
-> 系列第 9 / 13 篇 · ← 上一步：[[08-Callout 提示块，全部类型、折叠和嵌套|Callout 提示块]] · 下一步：[[10-Frontmatter 属性区和标签|Frontmatter 属性区]] → · 路线图：[[Markdown 语法总览]]
+> 系列第 9 / 13 篇 · ← 上一步：[[08-Callout 提示块，全部类型、折叠和嵌套|Callout 提示块]] · 下一步：[[10-Frontmatter 属性区和标签|Frontmatter 属性区]] → · 路线图：[[00-Markdown 语法总览]]
