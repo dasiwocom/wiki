@@ -3,7 +3,7 @@ title:
 aliases:
 tags:
   - php
-description: 表单的 name 怎么变成 PHP 的键、$_GET 和 $_POST 该用哪个、复选框和下拉怎么接，以及提交后怎么把用户填的内容留在框里。
+description: 表单里的 name 怎么变成 PHP 数组的键、GET 和 POST 该用哪个、复选框和下拉怎么接，以及提交后怎么把用户填的内容留在框里。
 ---
 
 # 接收表单数据，GET 和 POST
@@ -300,7 +300,7 @@ if ($keyword !== "") {
 
 这里用的是 `method="get"`，因为搜索结果要能被收藏、能刷新。输入"CSS"提交之后，地址栏会变成 `?q=CSS`。
 
-延伸阅读：[PHP 表单 - 菜鸟教程](https://www.runoob.com/php/php-forms.html)，[PHP $_GET 变量](https://www.runoob.com/php/php-get.html)，[PHP $_POST 变量](https://www.runoob.com/php/php-post.html)，[MDN 的表单指南](https://developer.mozilla.org/zh-CN/docs/Learn/Forms)。
+延伸阅读：[PHP 表单 - 菜鸟教程](https://www.runoob.com/php/php-forms.html)，[PHP 的 `$_GET` 变量](https://www.runoob.com/php/php-get.html)，[PHP 的 `$_POST` 变量](https://www.runoob.com/php/php-post.html)，[MDN 的表单指南](https://developer.mozilla.org/zh-CN/docs/Learn/Forms)。
 
 ---
 
