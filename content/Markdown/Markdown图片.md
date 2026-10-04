@@ -67,7 +67,7 @@ https://img-blog.csdnimg.cn/84b60bcc127844ddacf39a6d9175af0c.png
 ![屏幕截屏](https://img-blog.csdnimg.cn/84b60bcc127844ddacf39a6d9175af0c.png)
 ```
 
-![屏幕截屏](https://img-blog.csdnimg.cn/84b60bcc127844ddacf39a6d9175af0c.png)
+![[Pasted image 20261004184135.png]]
 
 ## 复制粘贴与双链
 
