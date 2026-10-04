@@ -29,3 +29,28 @@ draft: false
 ##### 五级标题
 ###### 六级标题
 ---
+## 标题锚点
+
+大多数 Markdown 处理器会自动为标题创建锚点（anchor），便于页面内跳转
+方法一：
+```
+[Markdown标题](#Markdown标题)
+```
+
+效果：[Markdown标题](#Markdown标题)
+
+方法二：
+
+```
+[[Markdown标题#Markdown标题]]
+```
+
+效果：[[Markdown标题#Markdown标题]]
+
+如果要引用外部文件，例如Obsidian下载这篇文章，我们就必须要用到第二种语法
+
+```
+[[Obsidian下载#工欲善其事必先利其器]]
+```
+
+[[Obsidian下载#工欲善其事必先利其器]]
