@@ -2,6 +2,7 @@
 title:
 aliases:
 tags:
+  - markdown
 description:
 draft: false
 ---
@@ -31,7 +32,8 @@ draft: false
 ---
 ## 标题锚点
 
-大多数 Markdown 处理器会自动为标题创建锚点（anchor），便于页面内跳转
+大多数 Markdown 处理器会自动为标题创建锚点（anchor），便于页面内跳转快速定位某文件的特定章节
+
 方法一：
 ```
 [Markdown标题](#Markdown标题)
@@ -45,12 +47,21 @@ draft: false
 [[Markdown标题#Markdown标题]]
 ```
 
-效果：[[Markdown标题#Markdown标题]]
+效果：[[02-Markdown标题和标题锚点#Markdown标题]]
+
+可以看到如果我们在Obsidian中打出了`[[`他会自动显示所有文件
+
+![[Pasted image 20261004130239.png]]
+
+选中文件之后在后面插入`#`会自动显示该文件的所有锚点
+
+![[Pasted image 20261004130422.png]]
+
 
 如果要引用外部文件，例如Obsidian下载这篇文章，我们就必须要用到第二种语法
 
 ```
-[[Obsidian下载#工欲善其事必先利其器]]
+[[Obsidian下载#程序安装]]
 ```
 
-[[Obsidian下载#工欲善其事必先利其器]]
+效果：[[01-Obsidian下载#程序安装]]
