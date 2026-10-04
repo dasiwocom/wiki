@@ -100,6 +100,6 @@ Attachments和这篇笔记所在的文件夹Markdown是同级文件夹
 ![屏幕截图](../Attachments/Pasted%20image%2020261004173114.png)
 ```
 
-![屏幕截图](../Attachments/Pasted%20image%2020261004173114.png)
+![[Pasted image 20261004183653.png]]
 
 相对目录用起来实在是低效，所以这里不过多阐述，详细请看[[相对路径和绝对路径]]
