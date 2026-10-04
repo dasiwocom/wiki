@@ -53,7 +53,10 @@ Markdown图片的语法是
 
 展示：
 
-![屏幕截屏](C:/Users/windows/Pictures/Screenshots/Screenshot%202026-10-03%20001833.png)
+为了向大家展示我是真的成功了，即便我们使用的是绝对路径
+但是当我们换了一个电脑或者环境 这个地址就会失效
+
+![[Pasted image 20261004183135.png]]
 
 或者咱们来到浏览器里copy一个图片地址,URL链接也是一种绝对地址
 https://img-blog.csdnimg.cn/84b60bcc127844ddacf39a6d9175af0c.png
