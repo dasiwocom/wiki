@@ -1,4 +1,4 @@
-Driver: 驱动程序 /ˈdraɪvər/
+Driver: 驱动程序 /ˈdraɪvər/ 驱动程序是一种特殊的软件程序，充当计算机操作系统与硬件设备（如显卡、声卡、打印机等）之间的通信桥梁。
 
 例句:
 1. You need to install the graphics driver.你需要安装显卡驱动程序。（graphics 指"图形/显卡"）

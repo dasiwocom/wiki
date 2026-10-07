@@ -1,4 +1,4 @@
-Kernel: 内核 /ˈkɜːrnl/
+Kernel: 内核 /ˈkɜːrnl/ 主要指果仁、谷物颗粒、核心部分及计算机操作系统的核心程序
 
 例句:
 1. The kernel manages memory and processes.
