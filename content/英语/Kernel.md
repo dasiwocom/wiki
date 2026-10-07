@@ -1,10 +1,3 @@
----
-title: Kernel
-aliases:
-tags:
-description:
-draft: false
----
 Kernel: 内核 /ˈkɜːrnl/
 
 例句:

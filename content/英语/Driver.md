@@ -1,11 +1,3 @@
----
-title:
-aliases:
-tags:
-description:
-draft: false
----
-
 Driver: 驱动程序 /ˈdraɪvər/
 
 例句:
