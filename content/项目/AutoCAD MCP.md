@@ -44,7 +44,7 @@ doc.ModelSpace.AddLine((0, 0, 0), (100, 100, 0))
 
 ## 工具集
 
-共 26 个，分六组：
+共 31 个，分七组：
 
 | 组 | 工具 |
 |---|---|
@@ -52,8 +52,12 @@ doc.ModelSpace.AddLine((0, 0, 0), (100, 100, 0))
 | 图层线型 | `create_layer` `set_layer` `create_layer_ex`（线型+线宽） `load_linetype` `set_var` |
 | 绘图 | `draw_line` `draw_polyline` `draw_circle` `draw_arc` `draw_rectangle` `draw_text` `hatch_region` `hatch_pattern`（ANSI31 剖面线） |
 | 尺寸标注 | `add_dim_rotated`（线性） `add_dim_aligned` `add_dim_diameter` `add_dim_radial` |
+| 国标环境 | `setup_gb_layers`（标准图层配色） `setup_gb_dim`（字高/箭头 1.5h） `draw_sheet`（GB/T 14689 图幅+对中符号） `draw_title_block`（180×56 标题栏） `draw_roughness`（GB/T 131 粗糙度，尺寸按字高查表） |
 | 表格视图 | `add_table`（真实 Table 对象） `zoom_extents` `send_command` `save_drawing` `clear_drawing` |
 | 高层 | `draw_china_flag`、`gear_draft.py`（参数化齿轮零件图引擎） |
+
+国标参数都来自知识库：[[机械制图国标速查]]、[[齿轮画法]]、[[表面粗糙度符号]]。
+画错的时候先查标准，再改代码——代码只是标准的翻译。
 
 ## 踩过的坑
 
@@ -88,6 +92,9 @@ doc.ModelSpace.AddLine((0, 0, 0), (100, 100, 0))
 > - pywin32 一旦生成 gen_py 缓存（`%TEMP%\gen_py`），Dispatch 全部变静态绑定，
 >   属性名错一个字母就 `AttributeError`。排查签名直接看缓存里的 `IAcadModelSpace.py`
 > - `DIMDEC` 系统变量对显示精度不生效 → 干脆所有标注都给 `TextOverride` 定死文字
+> - **`MEASUREMENT=0`（英制模板）时 ANSI31 基础间距 0.125mm**，剖面线密成实心，
+>   且调 PatternScale 也救不了（差 25.4 倍）——画毫米图前必须 `SetVariable("MEASUREMENT", 1)`
+> - COM 偶发「被呼叫方拒绝接收呼叫」（AutoCAD 忙）→ 对绘图调用加重试即可
 
 ## 实测结果
 
@@ -133,8 +140,8 @@ AutoCAD 2025 上跑通：
 ## 项目位置
 
 ```
-C:\Users\windows\autocad-mcp\
-├── server.py              MCP 服务器（26 个工具定义）
+C:\Users\windows\Desktop\autocad-mcp\     ← 2026-10-10 移到桌面（与 solidworks-mcp 并排）
+├── server.py              MCP 服务器（31 个工具定义）
 ├── autocad_bridge.py      COM 桥接层（实际操作 AutoCAD）
 ├── gear_draft.py          参数化齿轮零件图引擎（改参数字典即可画任意齿轮）
 ├── draw_part.py           轴架零件图（旧版手敲坐标，留档）
