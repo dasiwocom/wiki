@@ -44,19 +44,20 @@ doc.ModelSpace.AddLine((0, 0, 0), (100, 100, 0))
 
 ## 工具集
 
-共 31 个，分七组：
+共 36 个，分八组：
 
 | 组 | 工具 |
 |---|---|
-| 连接查询 | `autocad_connect` `autocad_status` `autocad_list_entities` |
+| 连接查询 | `autocad_connect` `autocad_status` `autocad_list_entities`（返回句柄） |
+| **读回修正** | `get_entity`（按句柄读属性） `edit_entity`（erase/move/rotate/scale/layer） `check_annotations`（数值化查注记压盖） |
 | 图层线型 | `create_layer` `set_layer` `create_layer_ex`（线型+线宽） `load_linetype` `set_var` |
 | 绘图 | `draw_line` `draw_polyline` `draw_circle` `draw_arc` `draw_rectangle` `draw_text` `hatch_region` `hatch_pattern`（ANSI31 剖面线） |
-| 尺寸标注 | `add_dim_rotated`（线性） `add_dim_aligned` `add_dim_diameter` `add_dim_radial` |
-| 国标环境 | `setup_gb_layers`（标准图层配色） `setup_gb_dim`（字高/箭头 1.5h） `draw_sheet`（GB/T 14689 图幅+对中符号） `draw_title_block`（180×56 标题栏） `draw_roughness`（GB/T 131 粗糙度，尺寸按字高查表） |
+| 尺寸标注 | `add_dim_rotated`（线性，数字随尺寸线转向） `add_dim_aligned` `add_dim_diameter` `add_dim_radial` |
+| 国标环境 | `setup_gb_layers`（标准图层配色） `setup_gb_dim`（字高/箭头 1.5h/数字背景遮罩） `draw_sheet`（GB/T 14689 图幅+对中符号） `draw_title_block`（180×56 标题栏） `draw_roughness`（GB/T 131 粗糙度，可绕尖端旋转） `draw_gdt_frame`（GB/T 1182 框格+箭头引线） `draw_datum`（基准代号：实心三角+方框字母） |
 | 表格视图 | `add_table`（真实 Table 对象） `zoom_extents` `send_command` `save_drawing` `clear_drawing` |
 | 高层 | `draw_china_flag`、`gear_draft.py`（参数化齿轮零件图引擎） |
 
-国标参数都来自知识库：[[机械制图国标速查]]、[[齿轮画法]]、[[表面粗糙度符号]]。
+国标参数都来自知识库：[[机械制图国标速查]]、[[齿轮画法]]、[[表面粗糙度符号]]、[[几何公差标注]]。
 画错的时候先查标准，再改代码——代码只是标准的翻译。
 
 ## 踩过的坑
@@ -96,6 +97,32 @@ doc.ModelSpace.AddLine((0, 0, 0), (100, 100, 0))
 >   且调 PatternScale 也救不了（差 25.4 倍）——画毫米图前必须 `SetVariable("MEASUREMENT", 1)`
 > - COM 偶发「被呼叫方拒绝接收呼叫」（AutoCAD 忙）→ 对绘图调用加重试即可
 
+> [!failure] 标注 related 三连（第四轮排查出来的）
+> - **静默降级最害人**：server.py 包装函数只认 `'x,y'` 字符串，脚本传元组
+>   `(200, 248.6)` 时被悄悄忽略 → 形位公差的引线和箭头根本没画，还不报错。
+>   修法：包装层坐标一律走 `_pt()` 容错转换（字符串/列表/元组都收），
+>   解析不了就**抛错返回原因**，绝不悄悄放弃
+> - **竖直尺寸的数字默认是水平的**：即使 `AddDimRotated` 传了 90°、DIMTIH=0，
+>   `TextRotation` 读出来还是 0 → 一串横向数字全挤在中心线上互相压盖。
+>   修法：按 GB/T 4458.4 方法 1 显式设 `dim.TextRotation`（官方可读可写）
+> - **数字背景遮罩别用实体属性**：`TextFill=True + TextFillColor=0` 在 2025 里
+>   会把数字填成一整块色块（0 被解释成随块色）。要走 `DIMTFILL=1`
+>   （图样背景色遮罩，穿过的中心线自动在数字处断开）
+> - **gen_py 静态绑定读不回属性**：`ModelSpace.Item()` 返回泛型 `IAcadEntity`，
+>   取 `TextString` / `Coordinates` 直接 AttributeError。
+>   修法：`win32com.client.dynamic.Dispatch(ent)` 换成动态分派再读
+
+## 读回与修正回路（2026-10-10 加入）
+
+参考 daobataotie/CAD-MCP（35 工具，「draw → inspect → correct」回路）的架构补齐三块：
+
+1. **按句柄读回**：`autocad_list_entities` 返回句柄 → `get_entity` 按句柄读全部属性
+   → `edit_entity` 局部 erase/move/rotate/scale，一处不对不用整图重画
+2. **数值化自检**：`check_annotations` 用 TextPosition/TextHeight/显示字数估算
+   「数字本身」的旋转矩形（不能拿整个标注的包围盒，尺寸界线会大量误报），
+   SAT 求交报出**实际间隙**，代替肉眼看图
+3. **截屏闭环**：`grab_cad.py` 置前窗口 + ImageGrab，最后一道防线
+
 ## 实测结果
 
 AutoCAD 2025 上跑通：
@@ -112,6 +139,7 @@ AutoCAD 2025 上跑通：
 | 轴架零件图 | `draw_part.py` | 31 | 成功（手敲坐标，粗糙版） |
 | 直齿圆柱齿轮零件图 | `draw_gear.py` | 42 | 成功（手敲坐标，粗糙版） |
 | 齿轮零件图 **参数化引擎重画** | `gear_draft.py` | 120 | 成功（公式推导 + 固定画图流程） |
+| 同上，第四轮「标注重排」 | `gear_draft.py` | 144 | 成功（自检 0 压盖，数字竖排+背景遮罩） |
 
 用户对第一版的批评一针见血：**「不能靠看，应该靠画图技巧准确确定，画图方法固定」**。
 手敲坐标 = 目测描图，键槽深度、轮毂位置全是猜的。第二版改成参数化引擎：
@@ -132,6 +160,16 @@ AutoCAD 2025 上跑通：
 >
 > 教训：**画完必须截屏放大自查一遍再交付**，肉眼过一遍能拦住大半这类问题。
 
+> [!tip] 第四轮修正（用户指出尺寸/粗糙度标注重叠）
+> 1. 根因：竖直尺寸数字是水平的，五个直径数字全挤在水平中心线上。
+>    修复 = 数字按 GB 转到与尺寸线同向（`TextRotation` 显式设置）+ 间距 8→10mm
+> 2. 数字被点划线穿过 → `DIMTFILL=1` 背景遮罩
+> 3. 技术要求从左上角挪到左下标题栏上方（左上角留给尺寸列和粗糙度符号）
+> 4. 发现并修复「引线静默丢失」：包装层只认字符串，元组参数被悄悄丢弃
+> 5. 验收不靠看：`check_annotations` 数值自检，39 个数字两两间隙 > 2mm 才算过
+>
+> 教训：**包装层的容错转换要「解析不了就报错」，静默降级比报错可怕得多。**
+
 > [!abstract] 顺带发现：原图参数表自相矛盾
 > 那张课程设计图纸（爱给网下载）参数表写 `z=27`，但 `Ø172 = 2×86` 只有 z=86 才与
 > `Ø176 齿顶`、`a=113=(86+27)×2/2` 自洽。图上 `R58.35` 的虚线圆在标准画法里应是分度圆 R86。
@@ -141,7 +179,7 @@ AutoCAD 2025 上跑通：
 
 ```
 C:\Users\windows\Desktop\autocad-mcp\     ← 2026-10-10 移到桌面（与 solidworks-mcp 并排）
-├── server.py              MCP 服务器（31 个工具定义）
+├── server.py              MCP 服务器（36 个工具定义）
 ├── autocad_bridge.py      COM 桥接层（实际操作 AutoCAD）
 ├── gear_draft.py          参数化齿轮零件图引擎（改参数字典即可画任意齿轮）
 ├── draw_part.py           轴架零件图（旧版手敲坐标，留档）
