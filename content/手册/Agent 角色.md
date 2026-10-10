@@ -4,6 +4,8 @@ aliases: [秘书, 贴身秘书, 角色定位, 权限]
 tags: [手册, meta, 规则]
 description: agent 不只是记笔记的，是贴身秘书 —— 知识网络 + 日常事务都管
 created: 2026-10-10
+draft: false
+
 ---
 
 # Agent 角色

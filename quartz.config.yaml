@@ -9,9 +9,14 @@ configuration:
   locale: en-US
   baseUrl: wiki.dasiwo.com
   ignorePatterns:
-    - private/**
     - Templates/**
     - .obsidian/**
+    - "*.pdf"
+    - "*.mp4"
+    - "*.mp3"
+    - "*.docx"
+    - "*.xlsx"
+    - "*.zip"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

@@ -4,6 +4,8 @@ aliases: [语法, markdown扩展, mermaid, callout]
 tags: [手册, 语法]
 description: 本库可用的扩展语法清单，含 mermaid / HTML / SVG / 图片 / 双链 示例
 created: 2026-10-10
+draft: false
+
 ---
 
 # Obsidian 语法速查
@@ -11,6 +13,11 @@ created: 2026-10-10
 > [!tip] 态度
 > 别只会写普通 md。能用图就别用大段文字，能链就别复制粘贴。
 > 下方语法 Obsidian 与 Quartz 均支持。
+
+> [!warning] 图谱里的"幽灵节点"
+> 本页是语法演示，表格里的 `[[笔记名]]`、`[[图片.png]]` 都是**假链接**。
+> Obsidian 会把它们算成未解析链接，在 Graph view 里显示成空心小圆点。
+> 这是正常的，**不要去补这些文件**。真笔记不会有这种情况。
 
 ## 速查表
 

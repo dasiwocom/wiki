@@ -1,0 +1,99 @@
+# Agent Instructions
+
+这个仓库是「第二大脑」：Obsidian vault + Quartz 静态站，部署到 `wiki.dasiwo.com`。
+内容由 AI agent 协助维护。**动手前先读完本文件。**
+
+## 关键路径
+
+| 用途 | 路径 |
+|---|---|
+| Obsidian vault 根 | `content/` |
+| 公开首页 | `content/index.md` |
+| 手册（规则/权限/演进） | `content/手册/` |
+| 个人信息 | `content/资料/`（专业学科、运营网站） |
+| 旧库档案 | `content/手册/旧库Agents/` |
+| 站点配置 | `quartz.config.yaml` |
+| 自定义样式（只改这里） | `quartz/styles/custom.scss` |
+
+## 目录
+
+| 目录 | 放什么 |
+|---|---|
+| `content/笔记/` | 长期有效的知识笔记（含 Markdown/HTML/51单片机/Windows 子目录） |
+| `content/手册/` | 元文档：规则、角色、演进、结构（**也公开发布**） |
+| `content/词库/` | 英语单词与缩写 |
+| `content/提示词/` | 提示词库 |
+| `content/日记/` | 日常记录，文件名 `YYYY-MM-DD.md` |
+| `content/项目/` | 有目标有期限的事 |
+| `content/领域/` | 长期在管的事（学业、站点、健康） |
+| `content/资料/` | 参考资料与个人信息 |
+| `content/归档/` | 完成或休眠的内容 |
+
+> [!note] 没有 private 分区
+> 所有者明确说不需要隐私隔离。只按**文件类型**过滤（pdf/mp4/mp3/docx/xlsx/zip 不发布）。
+> 见 `quartz.config.yaml` 的 `ignorePatterns`。
+
+> 没有收件箱。所有者明确说不加。新内容直接放到它该去的地方。
+
+## 用词要判断，不要字面执行
+
+所有者说的话**不等于最终落点**。先判断意图，再决定放哪、叫什么。
+
+| 他可能说 | 先想清楚 | 落点 |
+|---|---|---|
+| 规矩 / 规则 / 要求 | 给 AI 执行的，还是库内约定？ | 给 AI → `提示词/`；约定 → `手册/` |
+| 记一下 / 存一下 | 长期知识，还是临时待办？ | 知识 → `笔记/`；待办 → `领域/` |
+| 项目 | 有明确终点吗？ | 有 → `项目/`；长期 → `领域/` |
+
+建一个叫「规矩」的目录是懒政。判断错了会被纠正，纠一次就写进 `手册/协作规则.md`。
+
+## 写作约定
+
+- frontmatter：`description` 必填；`draft: false`；其余字段按库内惯例
+- 硬换行已开启（`hard-line-breaks` 插件）→ 源码里**一行一句话**，空行才分段
+- 用 `[[双链]]`，按文件名解析，移动文件不断链
+- 日期默认显示「最后修改时间」（`defaultDateType: modified`）
+- 内容面向陌生人：不写「本站」「这个库」「Quartz」「配置文件」这类读者看不懂的话
+
+## 语法边界
+
+| 支持 | 不支持（别用） |
+|---|---|
+| callout 全类型、脚注、KaTeX、mermaid、内联 HTML、`![[图.png\|200]]`、块 ID、`%%` 注释 | emoji 短代码 `:smile:`、定义列表、行内 `#标签`、`^2^`/`~2~`、`![[x.html]]`、`![[x.mp4]]`、Dataview |
+
+## 明确禁止
+
+- **不提醒构建和 push，也不替他执行** —— 所有者自己做
+- 删东西分三档：自己建的元文档/结构发现没用直接删；库内内容笔记可以删但要说明；库外所有者的原件（旧库 `Documents\content`、源码）不动
+- 不擅自改他的源码 / 工程文件（Keil `main.c` 之类）
+- 不写密钥、密码、API Key
+- 不批量移动、重命名、删除他的笔记，需逐次授权
+- 不替他把话说圆 —— 没查清的标「待查证」
+- 不改 `quartz/` 下的框架文件
+
+## 环境坑
+
+- Git Bash / MSYS2 下**不要**用 `bash -c "python -c '...'"` 内联含 `\n` 的字符串
+- 路径转换会把 `\n` 变成字面 `/n`，文件会写坏
+- 涉及换行的写入，写成 `.py` 文件再执行
+- 验证构建：`npx quartz build -o <临时目录>`（默认输出 `public/` 会被拦截），约 1.5–3 分钟
+
+## Git
+
+- 远程 `git@github.com:dasiwocom/wiki.git`（SSH）
+- **部署分支是 `v5`，不是 main**
+- 仓库根是本文件所在目录，不是 `content/`
+
+## 接手自检
+
+1. 读 `content/手册/` 下的规则文档（知识库手册、协作规则、Agent 角色、系统演进）
+2. 读 `content/index.md` 了解当前结构
+3. 不确定就问，不要猜；结构可改，但改完要同步更新手册的变更表
+
+## 发布过滤
+
+`quartz.config.yaml` 的 `ignorePatterns` 只按类型排除：
+`Templates/**`、`.obsidian/**`、`*.pdf`、`*.mp4`、`*.mp3`、`*.docx`、`*.xlsx`、`*.zip`。
+
+- 整篇不想发布：frontmatter 标 `draft: true`
+- 二进制附件默认会发布（图片除外不受影响），敏感的别往 `Attachments/` 放

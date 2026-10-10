@@ -4,6 +4,8 @@ aliases: [shell:, AppsFolder, 虚拟文件夹, CLSID]
 tags: [Windows, 技巧, 速查]
 description: Win+R 或地址栏输入 shell:xxx 直达各类虚拟/特殊文件夹
 created: 2026-10-10
+draft: false
+
 ---
 
 # shell 命令速查
