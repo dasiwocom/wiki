@@ -1,9 +1,9 @@
 ---
-title:
-aliases:
-tags:
-  - markdown
-description:
+title: 文本格式（Markdown）
+aliases: []
+tags: [Markdown]
+description: 
+created: 2026-10-10
 draft: false
 ---
 ## 粗体

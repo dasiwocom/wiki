@@ -5,7 +5,6 @@ tags: [Windows, 技巧, 系统]
 description: 回收站是虚拟 shell 命名空间对象，没有普通路径，因此在目录树里翻不到
 created: 2026-10-10
 draft: false
-
 ---
 
 # Windows 回收站

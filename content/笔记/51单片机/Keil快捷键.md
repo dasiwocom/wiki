@@ -1,8 +1,9 @@
 ---
-title:
-aliases:
-tags:
-description:
+title: Keil快捷键
+aliases: []
+tags: [单片机, 51, 嵌入式]
+description: 
+created: 2026-10-08
 draft: false
 ---
 Ctrl+G：跳转到指定行

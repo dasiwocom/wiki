@@ -5,7 +5,6 @@ tags: [手册, 语法]
 description: 本库可用的扩展语法清单，含 mermaid / HTML / SVG / 图片 / 双链 示例
 created: 2026-10-10
 draft: false
-
 ---
 
 # Obsidian 语法速查

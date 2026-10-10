@@ -1,8 +1,9 @@
 ---
-title:
-aliases:
-tags:
-description:
+title: 邵艾伦x孙宇晨访谈博客
+aliases: []
+tags: [未分类]
+description: 
+created: 2026-10-10
 draft: false
 ---
 全面AI化，日常计划，任务交给AI处理

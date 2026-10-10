@@ -1,9 +1,10 @@
 ---
-title:
-aliases:
-tags:
+title: README
+aliases: []
+tags: [未分类]
 description: Agents 目录的交接入口。任何接手的 AI 只读这一篇，5 分钟内可开工。
-draft: false
+created: 2026-10-10
+draft: true
 ---
 
 # 这是什么

@@ -99,6 +99,11 @@ SolidWorks 按特征树从上往下依次重建。
 
 适合用参考几何的信号：几何频繁改动、多个特征共享同一参考、有对称性、装配接口要保持一致。
 
+### 特征树用文件夹归类
+
+同类特征收进文件夹（比如所有圆角放「圆角」、所有孔放「孔系」）。
+零件复杂到几十个特征时，文件夹是唯一还能让树保持可读的手段。
+
 ## 五、装配要点
 
 - **不要过约束。** 三个配合能完全定位就别加七个，多余配合只会制造冲突。
@@ -117,6 +122,15 @@ SolidWorks 按特征树从上往下依次重建。
 - 公差与表面粗糙度
 
 CAD 里看着漂亮但造不出来的零件，等于没设计。
+
+> [!tip] 工艺特征也有自己的顺序
+> **抽壳要在筋、凸台都就位之后**（壁厚才包得住它们），**拔模要在全部功能几何完成之后**。
+> 它们依赖被修改的那些几何，所以放树底——顺序反了，改版时这些特征会跟着崩。
+
+### 复杂装配：自顶向下
+
+零件之间尺寸互相牵扯时（比如机架改宽，所有安装板跟着改），别各画各的。
+先建**布局草图 / 骨架模型**，再让各零件基于它关联设计。改骨架，全体同步。
 
 ## 七、10 步工作流
 
@@ -141,8 +155,30 @@ CAD 里看着漂亮但造不出来的零件，等于没设计。
 - [ ] 特征名是否是人话？
 - [ ] 改一个主尺寸，模型能不能正常重建？
 
+## 九、去哪学（官方与第三方入口）
+
+| 资源 | 怎么用 |
+|---|---|
+| **软件内置教程** | 右上角问号 → 教程。离线、免账号，分 Getting Started / Basic / Advanced / Design Evaluation 等章节 |
+| **自带样例模型** | `C:\Users\Public\Documents\SOLIDWORKS\SOLIDWORKS 2025\samples\tutorial`，或首页面板 → Learn → On my PC。**每个特征都带注释**，写明这一步干了什么——学建模顺序最好的材料 |
+| 官方帮助文档 | https://help.solidworks.com/2025/chinese-simplified/ 按版本查具体命令 |
+| MySolidWorks | 免费用 guest 账号看视频课，绑定订阅后解锁全部 |
+| 官方教材 | SDC Publications《SOLIDWORKS 2025 Tutorial》，项目式，含 CSWA 考题 |
+| 认证 | CSWA（助理）/ CSWP（专业），订阅用户可免费考，是唯一行业认可的资质 |
+
+非官方的中文教程（CSDN、B站）适合补具体操作，但**建模顺序、设计意图这类方法论，官方教材和样例模型讲得更系统**。
+
+## 参考来源
+
+- MiniCAD《3D Modeling in SolidWorks — The Complete Professional Reference》：特征顺序、全局变量、装配与仿真 https://minicad.io/3d-modeling-solidworks-professional-guide/
+- CSDN《SolidWorks建模思路：从草图规范到特征规划》：中文语境下的草图规范与特征顺序 https://blog.csdn.net/weixin_33960567/article/details/164411369
+- 格发《solidworks建模思路和顺序》：参数化驱动、三步走流程、特征树文件夹 https://gofarlic.com/techDocumentDetail?documentId=32919
+- TriMech《How to Access Free SOLIDWORKS Tutorials》：内置教程入口与样例文件路径 https://trimech.com/how-to-access-free-solidworks-tutorials/
+- SDC Publications《SOLIDWORKS 2025 Tutorial》（官方教材，含 CSWA 章节）
+
 ## 相关
 
+- 机械特有的东西（齿轮渐开线、筋与铸造工艺、孔系与螺纹、轴类细节）：[[机械零件建模]]
 - 我们做的 SolidWorks MCP 就是按这套规范自动化建模的：[[SolidWorks MCP]]
 - 同类的 AutoCAD 自动化：[[AutoCAD MCP]]
 - 单位与 API 层面的坑记在项目笔记里，不重复记在这

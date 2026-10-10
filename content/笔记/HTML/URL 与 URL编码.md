@@ -1,9 +1,9 @@
 ---
-title:
-aliases:
-tags:
-  - html
-description:
+title: URL 与 URL编码
+aliases: []
+tags: [HTML]
+description: 
+created: 2026-10-10
 draft: false
 ---
 ## 一、什么是 URL

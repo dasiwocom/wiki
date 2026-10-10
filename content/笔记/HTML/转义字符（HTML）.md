@@ -1,9 +1,9 @@
 ---
-title:
-aliases:
-tags:
-  - html
-description:
+title: 转义字符（HTML）
+aliases: []
+tags: [HTML]
+description: 
+created: 2026-10-10
 draft: false
 ---
 ## HTML 的实体转义
