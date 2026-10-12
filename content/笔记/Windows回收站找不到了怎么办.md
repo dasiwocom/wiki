@@ -1,6 +1,13 @@
+---
+title:
+aliases:
+tags:
+  - Windows
+description:
+draft: false
+---
 回收站不是真实文件夹，而是 Windows 的虚拟 shell 命名空间对象。
 它没有可导航的普通路径 —— 这就是"桌面有图标，却怎么也找不到它在哪"的原因。
-
 ## 打开方式
 |方法|操作|
 |---|---|

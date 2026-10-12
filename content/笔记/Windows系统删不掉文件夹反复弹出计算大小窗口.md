@@ -1,3 +1,11 @@
+---
+title:
+aliases:
+tags:
+  - Windows
+description:
+draft: false
+---
 现象：资源管理器删不掉文件夹里的内容，反复弹出"计算大小 / 回收站"窗口。
 原因：
 

@@ -1,3 +1,11 @@
+---
+title:
+aliases:
+tags:
+  - WordPress
+description:
+draft: false
+---
 ## 一：手动设置关闭
 
 进入WordPress仪表盘(后台)，选择设置

@@ -1,3 +1,12 @@
+---
+title:
+aliases:
+tags:
+  - 快捷键
+  - keil
+description:
+draft: false
+---
 Ctrl+G：跳转到指定行
 ![[Pasted image 20261012153423.png]]
 
