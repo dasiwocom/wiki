@@ -1,3 +1,12 @@
+---
+title:
+aliases:
+tags:
+  - Debian
+  - Ubuntu
+description:
+draft: false
+---
 ## 问题根源
 
 dpkg 仅负责解压、拷贝 deb 包内程序文件，不具备联网下载、自动补全依赖的功能。  

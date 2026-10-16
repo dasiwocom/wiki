@@ -1,3 +1,12 @@
+---
+title:
+aliases:
+tags:
+  - Linux
+  - Electron
+description:
+draft: false
+---
 ## 一、哪些软件会闪退
 
 Linux 下所有 **Electron / Chromium 内核**软件极易闪退：

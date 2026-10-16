@@ -1,3 +1,13 @@
+---
+title:
+aliases:
+tags:
+  - Windows
+  - 正斜杠
+  - 反斜杠
+description:
+draft: false
+---
 ## 正斜杠 /
 
 Unix、Linux、网页、URL、HTML 都使用正斜杠 /。

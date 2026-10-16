@@ -1,3 +1,11 @@
+---
+title:
+aliases:
+tags:
+  - URL
+description:
+draft: false
+---
 一、什么是 URL
 
 URL，全称统一资源定位符，通俗来说就是资源的网络地址。它用来定位互联网或者本地的一份资源，资源可以是网页、图片、视频、文件等。

@@ -2,6 +2,7 @@
 title:
 aliases:
 tags:
+  - C语言
 description:
 draft: false
 ---

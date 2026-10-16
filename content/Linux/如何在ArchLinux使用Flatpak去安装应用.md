@@ -1,3 +1,12 @@
+---
+title:
+aliases:
+tags:
+  - Flatpak
+  - ArchLinux
+description:
+draft: false
+---
 ## 1. 安装 flatpak（Arch 官方软件源）
 
 ```

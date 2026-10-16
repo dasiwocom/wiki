@@ -3,7 +3,7 @@ title:
 aliases:
 tags:
   - 快捷键
-  - keil
+  - Keil
 description:
 draft: false
 ---
