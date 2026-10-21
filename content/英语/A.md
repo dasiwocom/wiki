@@ -7,20 +7,6 @@ description:
 draft: false
 ---
 
-## argument 参数
-This command won't run unless you pass the right arguments.除非传入正确的参数，否则这条命令无法运行。
-The function needs two arguments to work properly.这个函数需要两个参数才能正常运行。
-Incorrect arguments will make the program return a runtime error.错误的参数会使程序返回运行时错误。
-The API validates each argument to ensure it falls within the permitted range.该接口校验每个参数，确保其落在允许范围内。
-
----
-## according 依照
-According to the forecast, it's going to rain tomorrow.根据预报，明天要下雨。
-According to the plan, we will start tomorrow.依照计划，我们明天开始。
-All activities must proceed according to the established regulations.所有活动必须依照既定规章开展。
-According to the latest statistics, global temperatures continue to rise steadily.依照最新统计数据，全球气温持续稳步上升。
-
----
 ## abolish 废除
 They finally abolished that ridiculous rule.他们终于废除了那条荒谬的规定。
 The country decided to abolish the unfair law.该国决定废除这项不公的法律。
