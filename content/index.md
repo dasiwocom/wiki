@@ -17,3 +17,9 @@ draft: false
 
 云服务器，网站，Linux，个人电脑，AI，编程，交易
 
+## 更多站点
+
+www.dasiwo.com wiki.dasiwo.com
+cloud.dasiwo.com tool.dasiwo.com
+api.dasiwo.com vip.dasiwo.com
+learn.dasiwo.com auth.dasiwo.com
