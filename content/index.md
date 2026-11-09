@@ -7,7 +7,7 @@ draft: false
 ---
 ## 关于本站
 
-本站所使用源码为Quartz，内容又Agents协作使用GithubPages静态托管。
+本站所使用源码为Quartz，内容由Agents协作使用GithubPages静态托管。
 
 ## 更多站点
 
