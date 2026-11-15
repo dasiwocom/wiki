@@ -262,6 +262,11 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+  - source: "@quartz-community/obsidian-plugin-excalidraw"
+    enabled: true
+    options:
+      enableInteraction: true
+    order: 20
 layout:
   groups:
     toolbar:
