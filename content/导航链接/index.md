@@ -60,3 +60,6 @@
 [archlinux](https://archlinux.org/)
 [debian](https://www.debian.org/)
 [河南工业大学](https://www.haut.edu.cn/)
+[clawhub](https://clawhub.ai/)
+[百度搜索资源平台](https://ziyuan.baidu.com)
+[deepseek](https://deepseek.com)
