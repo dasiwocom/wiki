@@ -1,0 +1,2 @@
+- polite /pəˈlaɪt/ 礼貌的
+- silent /ˈsaɪlənt/ 沉默的

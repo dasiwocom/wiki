@@ -1,0 +1,2 @@
+- curious /ˈkjʊəriəs/ 好奇的
+- interested /ˈɪntrəstɪd/ 感兴趣的

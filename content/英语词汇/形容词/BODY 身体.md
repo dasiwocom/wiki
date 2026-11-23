@@ -1,0 +1,2 @@
+- healthy /ˈhelθi/ 健康的
+- weak /wiːk/ 虚弱的

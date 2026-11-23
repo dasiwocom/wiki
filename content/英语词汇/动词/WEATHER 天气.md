@@ -1,0 +1,7 @@
+- blow /bləʊ/ 刮风
+- drizzle /ˈdrɪzl/ 下毛毛雨
+- hail /heɪl/ 下冰雹
+- rain /reɪn/ 下雨
+- shower /ˈʃaʊə(r)/ 下阵雨
+- snow /snəʊ/ 下雪
+- thaw /θɔː/ 解冻

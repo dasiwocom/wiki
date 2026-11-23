@@ -1,0 +1,57 @@
+- accent /ˈæksent/ 口音
+- advice /ədˈvaɪs/ 建议
+- apology /əˈpɒlədʒi/ 道歉
+- article /ˈɑːtɪkl/ 文章
+- attachment /əˈtætʃmənt/ 附件
+- caption /ˈkæpʃn/ 说明文字；字幕
+- chat /tʃæt/ 聊天
+- Chinese /ˌtʃaɪˈniːz/ 中文
+- comic /ˈkɒmɪk/ 漫画
+- confirmation /ˌkɒnfəˈmeɪʃn/ 确认
+- conversation /ˌkɒnvəˈseɪʃn/ 对话
+- discussion /dɪˈskʌʃn/ 讨论
+- documentary /ˌdɒkjuˈmentri/ 纪录片
+- email /ˈiːmeɪl/ 邮件
+- emoji /ɪˈməʊdʒi/ 表情符号
+- English /ˈɪŋɡlɪʃ/ 英语
+- farewell /ˌfeəˈwel/ 告别
+- gossip /ˈɡɒsɪp/ 八卦；闲话
+- grammar /ˈɡræmə(r)/ 语法
+- hashtag /ˈhæʃtæɡ/ 话题标签
+- headline /ˈhedlaɪn/ 标题；头条
+- instruction /ɪnˈstrʌkʃn/ 说明；指示
+- invitation /ˌɪnvɪˈteɪʃn/ 邀请
+- label /ˈleɪbl/ 标签
+- language /ˈlæŋɡwɪdʒ/ 语言
+- magazine /ˌmæɡəˈziːn/ 杂志
+- meaning /ˈmiːnɪŋ/ 意思
+- message /ˈmesɪdʒ/ 消息
+- music /ˈmjuːzɪk/ 音乐
+- news /njuːz/ 新闻
+- notification /ˌnəʊtɪfɪˈkeɪʃn/ 通知；提醒
+- novel /ˈnɒvl/ 小说
+- okay /ˌəʊˈkeɪ/ 还行
+- phrase /freɪz/ 短语
+- please /pliːz/ 使高兴
+- poem /ˈpəʊɪm/ 诗
+- post /pəʊst/ 帖子
+- pronunciation /prəˌnʌnsiˈeɪʃn/ 发音
+- request /rɪˈkwest/ 请求
+- rumor /ˈruːmə(r)/ 谣言
+- secret /ˈsiːkrət/ 秘密
+- sentence /ˈsentəns/ 句子
+- sign /saɪn/ 标牌；标志
+- slogan /ˈsləʊɡən/ 标语；口号
+- text /tekst/ 发短信
+- update /ˌʌpˈdeɪt/ 最新消息；更新
+- warning /ˈwɔːnɪŋ/ 警告
+- word /wɜːd/ 单词
+
+
+- nationwide /ˈneɪʃnwaɪd/
+  - adj. 全国性的；遍及全国的
+    - 例：a nationwide campaign 全国性运动
+    - 例：a nationwide problem 全国性问题
+  - adv. 遍及全国地
+    - 例：The company has over 500 stores nationwide. 这家公司在全国各地有 500 多家商店。
+    - 例：The figures show unemployment falling nationwide last month. 数字显示，上个月全国失业率出现下降。

@@ -1,0 +1,5 @@
+- cheap /tʃiːp/ 便宜的
+- enough /ɪˈnʌf/ 足够的
+- expensive /ɪkˈspensɪv/ 昂贵的
+- free /friː/ 免费的
+- valuable /ˈvæljuəbl/ 有价值的

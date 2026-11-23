@@ -1,0 +1,3 @@
+- full-time /ˌfʊl ˈtaɪm/ 全职的
+- part-time /ˌpɑːt ˈtaɪm/ 兼职的
+- retired /rɪˈtaɪəd/ 退休的

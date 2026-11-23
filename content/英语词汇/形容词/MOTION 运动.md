@@ -1,0 +1,6 @@
+- fast /fɑːst/ 快的
+- gradual /ˈɡrædʒuəl/ 逐渐的
+- quick /kwɪk/ 迅速的
+- rapid /ˈræpɪd/ 快速的
+- slow /sləʊ/ 慢的
+- sudden /ˈsʌdən/ 突然的
