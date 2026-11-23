@@ -1,7 +1,12 @@
 - blow /bləʊ/ 刮风
 - drizzle /ˈdrɪzl/ 下毛毛雨
+- freeze /friːz/ 结冰；冻结；冻住
 - hail /heɪl/ 下冰雹
 - rain /reɪn/ 下雨
 - shower /ˈʃaʊə(r)/ 下阵雨
 - snow /snəʊ/ 下雪
 - thaw /θɔː/ 解冻
+
+- pour /pɔː(r)/ 倾盆而下；倒
+- condense /kənˈdens/ 凝结；浓缩
+- gust /ɡʌst/ 阵风；吹阵风

@@ -1,2 +1,69 @@
+- absurd /əbˈsɜːd/ 荒谬的；可笑的
+- alert /əˈlɜːt/ 警觉的；机灵的
+- ambiguous /æmˈbɪɡjuəs/ 模棱两可的；含糊不清的
+- attentive /əˈtentɪv/ 专心的；体贴的
+- aware /əˈweə(r)/ 意识到的；知道的
+- clever /ˈklevə(r)/ 聪明的；机灵的
+- confused /kənˈfjuːzd/ 困惑的；糊涂的
+- conscious /ˈkɒnʃəs/ 有意识的；意识到的
+- creative /kriˈeɪtɪv/ 有创造力的；创造性的
+- critical /ˈkrɪtɪkl/ 批判性的；关键的；危急的
 - curious /ˈkjʊəriəs/ 好奇的
+- deliberate /dɪˈlɪbərət/ 故意的；深思熟虑的
+- familiar /fəˈmɪliə(r)/ 熟悉的；常见的
+- focused /ˈfəʊkəst/ 专注的；集中的
+- illogical /ˌɪlɒdʒɪkl/ 不合逻辑的；不合理的
+- intelligent /ɪnˈtelɪdʒənt/ 聪明的；有才智的
 - interested /ˈɪntrəstɪd/ 感兴趣的
+- logical /ˈlɒdʒɪkl/ 合逻辑的；合理的
+- mental /ˈmentl/ 精神的；智力的
+- observant /əbˈzɜːvənt/ 善于观察的；留心的
+- patient /ˈpeɪʃnt/ 有耐心的；病人
+- perceptive /pəˈseptɪv/ 有洞察力的；敏锐的
+- precise /prɪˈsaɪs/ 精确的；准确的
+- rational /ˈræʃənl/ 理性的；合理的
+- reasonable /ˈriːznəbl/ 合理的；公道的
+- reflective /rɪˈflektɪv/ 反思的；沉思的
+- sensible /ˈsensəbl/ 明智的；合理的
+- serious /ˈsɪəriəs/ 严肃的；认真的；严重的
+- smart /smɑːt/ 聪明的；机灵的
+- subtle /ˈsʌtl/ 微妙的；细微的；精妙的
+- thoughtful /ˈθɔːtfl/ 体贴的；深思的
+- unconscious /ʌnˈkɒnʃəs/ 无意识的；昏迷的
+- vague /veɪɡ/ 模糊的；含糊的
+- wise /waɪz/ 明智的；智慧的
+
+- stupid /ˈstjuːpɪd/ 愚蠢的；迟钝的
+- silly /ˈsɪli/ 傻的；可笑的
+- foolish /ˈfuːlɪʃ/ 愚蠢的；荒唐的
+- brilliant /ˈbrɪliənt/ 杰出的；聪明的
+- gifted /ˈɡɪftɪd/ 有天赋的；聪慧的
+- talented /ˈtæləntɪd/ 有才华的
+- irrational /ɪˈræʃənl/ 不理性的；无道理的
+- ridiculous /rɪˈdɪkjələs/ 荒谬的；可笑的
+- weird /wɪəd/ 奇怪的；怪异的
+- odd /ɒd/ 奇怪的；奇数的
+- peculiar /pɪˈkjuːliə(r)/ 奇特的；独特的
+- crazy /ˈkreɪzi/ 疯狂的；着迷的
+- sane /seɪn/ 神志清醒的；明智的
+
+- bipolar /ˌbaɪˈpəʊlə(r)/ 双相情感障碍的
+- academic /ˌækəˈdemɪk/ 学术的；学者
+
+- profound /prəˈfaʊnd/ 深刻的；深远的
+- witty /ˈwɪti/ 机智的；诙谐的
+- dumb /dʌm/ 哑的；愚蠢的
+- forgetful /fəˈɡetfl/ 健忘的
+
+- empirical /ˌeˈmpɪrɪkʌl/ 经验主义的；实证的
+- idealistic /aɪˌdiːʌˈlɪstɪk/ 理想主义的
+- imaginative /ˌɪˈmædʒʌnʌtɪv/ 富有想象力的
+- immature /ˌɪmʌˈtjʊr/ 不成熟的
+- plausible /ˈplɔzʌbʌl/ 合理的；可信的
+- pragmatic /præˈɡmætɪk/ 务实的；实用主义的
+- presumed /prʌˈzuːmd/ 假定的；推测的
+- tentative /ˈtentʌtɪv/ 试探性的；暂时的
+- valid /ˈvælɪd/ 有效的；合理的
+
+- open-minded /ˌəʊpən ˈmaɪndɪd/ 思想开放的
+- narrow-minded /ˌnærəʊ ˈmaɪndɪd/ 心胸狭隘的

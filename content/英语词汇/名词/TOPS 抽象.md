@@ -5,3 +5,5 @@
 - stuff /stʌf/ 东西；材料
 - thing /θɪŋ/ 东西；事情
 - universe /ˈjuːnɪvɜːs/ 宇宙
+
+- space /speɪs/ 空间；太空

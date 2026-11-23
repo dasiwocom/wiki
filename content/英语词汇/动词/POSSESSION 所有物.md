@@ -8,6 +8,8 @@
 - donate /dəʊˈneɪt/ 捐赠
 - earn /ɜːn/ 赚取
 - exchange /ɪksˈtʃeɪndʒ/ 换货
+- gain /ɡeɪn/ 获得；增加；获胜
+- inherit /ɪnˈherɪt/ 继承；遗传
 - invest /ɪnˈvest/ 投资
 - lend /lend/ 借出
 - mall /mɔːl/ 商场
@@ -27,3 +29,5 @@
 - supermarket /ˈsuːpəmɑːkɪt/ 超市
 - trade /treɪd/ 交易
 - withdraw /wɪðˈdrɔː/ 取款
+
+- remit /riːˈmɪt/ 汇款；豁免

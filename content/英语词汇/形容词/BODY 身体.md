@@ -1,2 +1,31 @@
+- blind /blaɪnd/ 失明的；盲目的
+- bloody /ˈblʌdi/ 流血的；血腥的
+- broad /brɔːd/ 宽的；广泛的；宽泛的
+- fat /fæt/ 肥胖的；脂肪的
 - healthy /ˈhelθi/ 健康的
+- hungry /ˈhʌŋɡri/ 饥饿的；渴望的
+- ill /ɪl/ 生病的；不健康的；坏的
+- slim /slɪm/ 苗条的；纤细的；微薄的
+- strong /strɒŋ/ 强壮的；强烈的；坚固的
+- thirsty /ˈθɜːsti/ 口渴的；渴望的
 - weak /wiːk/ 虚弱的
+
+- unhealthy /ʌnˈhelθi/ 不健康的
+- sleepy /ˈsliːpi/ 困倦的；想睡的
+- agile /ˈædʒaɪl/ 敏捷的；灵活的
+- clumsy /ˈklʌmzi/ 笨拙的；笨手笨脚的
+- stiff /stɪf/ 僵硬的；僵直的
+- sore /sɔː(r)/ 酸痛的；疼痛的
+- numb /nʌm/ 麻木的；失去感觉的
+
+- chronic /ˈkrɒnɪk/ 慢性的；长期的
+- acute /əˈkjuːt/ 急性的；敏锐的
+- benign /bɪˈnaɪn/ 良性的；温和的
+- malignant /məˈlɪɡnənt/ 恶性的；恶意的
+- contagious /kənˈteɪdʒəs/ 接触传染的
+- infectious /ɪnˈfekʃəs/ 传染性的；感染的
+
+- robust /rəʊˈbʌst/ 强健的；坚固的
+- frail /freɪl/ 虚弱的；脆弱的
+- exhausted /ɪɡˈzɔːstɪd/ 精疲力竭的
+- refreshed /rɪˈfreʃt/ 精神焕发的
