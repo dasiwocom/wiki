@@ -66,3 +66,4 @@
 [debian](https://www.debian.org/)
 [linuxmint](https://linuxmint.com/)
 [智简魔方](https://www.idcsmart.com/index.html)
+[langeek](https://langeek.co/en-ZH/vocab/subcategory/4882/word-list?title=%E7%89%A9%E7%90%86%E7%8A%B6%E6%80%81%E5%89%AF%E8%AF%8D)
