@@ -1,6 +1,0 @@
----
-title:
-aliases:
-tags:
-description:
----
